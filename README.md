@@ -1,48 +1,48 @@
-# Flashcards de Luxemburguês para Anki
+# Luxembourgish Anki Flashcards
 
-Este repositório contém flashcards de áudio em luxemburguês para usar no Anki.
+This repository contains Luxembourgish audio flashcards for Anki.
 
-Há duas versões:
+There are two versions:
 
-- `FLASHCARDS/`: cards com tradução em português do Brasil.
-- `FLASHCARDS_EN/`: cards com tradução em inglês dos EUA.
+- `FLASHCARDS/`: cards with Brazilian Portuguese translations.
+- `FLASHCARDS_EN/`: cards with US English translations.
 
-As duas versões usam os mesmos áudios:
+Both versions use the same audio files:
 
 ```text
 FLASHCARDS_MEDIA/
 ```
 
-Cada áudio gera dois cards:
+Each audio file creates two cards:
 
-1. Frente com áudio; verso com transcrição em luxemburguês e tradução.
-2. Frente com transcrição em luxemburguês; verso com áudio e tradução.
+1. Audio on the front; Luxembourgish transcript and translation on the back.
+2. Luxembourgish transcript on the front; audio and translation on the back.
 
-## 1. Baixar e instalar o Anki
+## 1. Download and Install Anki
 
-1. Acesse o site oficial:
+1. Go to the official Anki website:
 
 ```text
 https://apps.ankiweb.net/
 ```
 
-2. Baixe a versão para o seu computador.
-3. Instale e abra o Anki.
-4. Crie um perfil se o Anki pedir.
+2. Download Anki for your computer.
+3. Install and open Anki.
+4. Create a profile if Anki asks you to.
 
-Você não precisa criar conta no AnkiWeb para importar estes cards. A conta só é necessária se quiser sincronizar entre computador e celular.
+You do not need an AnkiWeb account to import these cards. An AnkiWeb account is only needed if you want to sync between your computer and phone.
 
-## 2. Baixar este repositório
+## 2. Download This Repository
 
-No GitHub, clique em:
+On GitHub, click:
 
 ```text
 Code > Download ZIP
 ```
 
-Depois extraia o arquivo `.zip` no seu computador.
+Then unzip the `.zip` file on your computer.
 
-Após extrair, você deve ver estas pastas:
+After unzipping, you should see these folders:
 
 ```text
 FLASHCARDS/
@@ -50,135 +50,135 @@ FLASHCARDS_EN/
 FLASHCARDS_MEDIA/
 ```
 
-Importante: os áudios estão armazenados com Git LFS. Se você baixar pelo botão `Download ZIP`, o GitHub normalmente inclui os arquivos reais. Se você clonar pelo Git, instale o Git LFS e rode:
+Important: the audio files are stored with Git LFS. If you download with `Download ZIP`, GitHub should include the real audio files. If you clone with Git, install Git LFS and run:
 
 ```powershell
 git lfs pull
 ```
 
-## 3. Escolher qual versão importar
+## 3. Choose Which Version to Import
 
-Para cards com tradução em português, use:
+For cards with Brazilian Portuguese translations, use:
 
 ```text
 FLASHCARDS/
 ```
 
-Para cards com tradução em inglês, use:
+For cards with US English translations, use:
 
 ```text
 FLASHCARDS_EN/
 ```
 
-Em qualquer uma das versões, você também precisa da pasta:
+For either version, you also need:
 
 ```text
 FLASHCARDS_MEDIA/
 ```
 
-Ela contém os áudios usados pelos cards.
+This folder contains the audio used by the cards.
 
-## 4. Encontrar a pasta de mídia do Anki
+## 4. Find Anki's Media Folder
 
-O Anki guarda áudios e imagens em uma pasta chamada:
+Anki stores audio and image files in a folder named:
 
 ```text
 collection.media
 ```
 
-Locais mais comuns:
+Common locations:
 
 Windows:
 
 ```text
-%APPDATA%\Anki2\NOME_DO_PERFIL\collection.media
+%APPDATA%\Anki2\PROFILE_NAME\collection.media
 ```
 
 macOS:
 
 ```text
-/Users/SEU_USUARIO/Library/Application Support/Anki2/NOME_DO_PERFIL/collection.media
+/Users/YOUR_USER/Library/Application Support/Anki2/PROFILE_NAME/collection.media
 ```
 
 Linux:
 
 ```text
-/home/SEU_USUARIO/.local/share/Anki2/NOME_DO_PERFIL/collection.media
+/home/YOUR_USER/.local/share/Anki2/PROFILE_NAME/collection.media
 ```
 
-Se você não sabe o nome do perfil, abra o Anki e vá em:
+If you do not know your profile name, open Anki and go to:
 
 ```text
 File > Switch Profile
 ```
 
-Em instalações novas, o perfil geralmente se chama `User 1`.
+On a new Anki installation, the profile is usually called `User 1`.
 
-## 5. Abrir a pasta `collection.media`
+## 5. Open `collection.media`
 
 ### Windows
 
-1. Feche o Anki.
-2. Abra o Explorador de Arquivos.
-3. Clique na barra de endereço.
-4. Cole:
+1. Close Anki.
+2. Open File Explorer.
+3. Click the address bar.
+4. Paste:
 
 ```text
 %APPDATA%\Anki2
 ```
 
-5. Pressione Enter.
-6. Abra a pasta do seu perfil, por exemplo `User 1`.
-7. Abra `collection.media`.
+5. Press Enter.
+6. Open your profile folder, for example `User 1`.
+7. Open `collection.media`.
 
 ### macOS
 
-1. Feche o Anki.
-2. Abra o Finder.
-3. No menu superior, clique em:
+1. Close Anki.
+2. Open Finder.
+3. In the top menu, click:
 
 ```text
 Go > Go to Folder...
 ```
 
-4. Cole:
+4. Paste:
 
 ```text
 ~/Library/Application Support/Anki2
 ```
 
-5. Pressione Enter.
-6. Abra a pasta do seu perfil, por exemplo `User 1`.
-7. Abra `collection.media`.
+5. Press Enter.
+6. Open your profile folder, for example `User 1`.
+7. Open `collection.media`.
 
 ### Linux
 
-1. Feche o Anki.
-2. Abra o gerenciador de arquivos.
-3. Vá para:
+1. Close Anki.
+2. Open your file manager.
+3. Go to:
 
 ```text
 ~/.local/share/Anki2
 ```
 
-4. Abra a pasta do seu perfil, por exemplo `User 1`.
-5. Abra `collection.media`.
+4. Open your profile folder, for example `User 1`.
+5. Open `collection.media`.
 
-## 6. Copiar os áudios
+## 6. Copy the Audio Files
 
-Abra a pasta deste repositório:
+Open this repository folder:
 
 ```text
 FLASHCARDS_MEDIA/
 ```
 
-Copie todos os arquivos `.mp3` de dentro dela para a pasta do Anki:
+Copy all `.mp3` files from that folder into Anki's media folder:
 
 ```text
 collection.media/
 ```
 
-Correto:
+Correct:
 
 ```text
 collection.media/
@@ -186,7 +186,7 @@ collection.media/
   inll_6ec08fc98d25_A1_KAPITEL_1_Audio_01_002.mp3
 ```
 
-Errado:
+Wrong:
 
 ```text
 collection.media/
@@ -194,13 +194,13 @@ collection.media/
     inll_efebb85a6dde_A1_KAPITEL_1_Audio_01_001.mp3
 ```
 
-Os arquivos `.mp3` precisam ficar diretamente dentro de `collection.media`, e não dentro de uma subpasta.
+The `.mp3` files must be directly inside `collection.media`, not inside a subfolder.
 
-## 7. Criar os baralhos no Anki
+## 7. Create Decks in Anki
 
-Abra o Anki e crie os baralhos antes de importar os arquivos.
+Open Anki and create the decks before importing the files.
 
-Uma estrutura recomendada é:
+A recommended structure is:
 
 ```text
 Luxembourgish::A1::Kapitel 1
@@ -209,7 +209,7 @@ Luxembourgish::A2::Kapitel 1
 Luxembourgish::B1::Kapitel 1
 ```
 
-Para a versão em inglês:
+For the English translation version, you can use:
 
 ```text
 Luxembourgish EN::A1::Kapitel 1
@@ -217,51 +217,51 @@ Luxembourgish EN::A2::Kapitel 1
 Luxembourgish EN::B1::Kapitel 1
 ```
 
-No Anki, `::` cria subbaralhos. Por exemplo:
+In Anki, `::` creates subdecks. For example:
 
 ```text
 Luxembourgish::A1::Kapitel 1
 ```
 
-cria `Kapitel 1` dentro de `A1`, dentro de `Luxembourgish`.
+creates `Kapitel 1` inside `A1`, inside `Luxembourgish`.
 
-## 8. Importar os arquivos CSV
+## 8. Import the CSV Files
 
-Cada capítulo tem um arquivo `.csv`.
+Each chapter has one `.csv` file.
 
-Exemplos:
+Examples:
 
 ```text
 FLASHCARDS/A1/KAPITEL 1/A1_KAPITEL 1_flashcards.csv
 FLASHCARDS_EN/A1/KAPITEL 1/A1_KAPITEL 1_flashcards.csv
 ```
 
-Para importar um capítulo:
+To import one chapter:
 
-1. Abra o Anki.
-2. Clique no baralho onde esse capítulo deve entrar.
-3. Vá em:
+1. Open Anki.
+2. Click the deck where that chapter should go.
+3. Go to:
 
 ```text
 File > Import
 ```
 
-4. Escolha o arquivo `.csv` do capítulo.
-5. Na tela de importação, confira:
+4. Choose the chapter `.csv` file.
+5. In the import screen, check:
 
 ```text
 Type / Note Type: Basic
-Deck: o baralho correto do capítulo
+Deck: the correct chapter deck
 Field 1: Front
 Field 2: Back
 Separator: comma
-Allow HTML in fields: ativado
+Allow HTML in fields: enabled
 ```
 
-6. Clique em Import.
-7. Repita para cada capítulo que quiser importar.
+6. Click Import.
+7. Repeat this for every chapter you want to import.
 
-Os arquivos CSV já começam com:
+The CSV files already start with:
 
 ```text
 #separator:comma
@@ -269,115 +269,115 @@ Os arquivos CSV já começam com:
 #columns:Front,Back
 ```
 
-Essas linhas ajudam o Anki a ler o arquivo corretamente.
+These lines help Anki read the file correctly.
 
-## 9. Conferir se o áudio está funcionando
+## 9. Check That Audio Works
 
-Depois de importar o primeiro capítulo:
+After importing the first chapter:
 
-1. Abra o navegador de cards do Anki.
-2. Clique em um card importado.
-3. Use a pré-visualização.
-4. Aperte o botão de áudio/play.
+1. Open Anki's card browser.
+2. Click one imported card.
+3. Preview the card.
+4. Press the audio/play button.
 
-Se o áudio não tocar:
+If the audio does not play:
 
-1. Confira se os arquivos `.mp3` foram copiados para `collection.media`.
-2. Confira se eles não ficaram dentro de uma subpasta.
-3. No Anki, rode:
+1. Check that the `.mp3` files were copied into `collection.media`.
+2. Check that they are not inside a subfolder.
+3. In Anki, run:
 
 ```text
 Tools > Check Media
 ```
 
-O Anki vai avisar se algum arquivo de mídia estiver faltando.
+Anki will report missing media files.
 
-Se você já importou uma versão antiga deste baralho, apague os cards antigos antes de importar de novo. Os arquivos antigos começavam com `flashcards_`; os novos começam com `inll_` e incluem um hash do áudio para manter cada card sincronizado com o arquivo correto.
+If you imported an older version of this deck, delete the old notes before importing again. Older media files started with `flashcards_`; the current files start with `inll_` and include an audio hash to keep every card synchronized with the correct file.
 
-## 10. Configuração recomendada do Anki
+## 10. Recommended Anki Settings
 
-Estas configurações são um bom ponto de partida para estudar idioma com áudio.
+These settings are a good starting point for language learning with audio.
 
-Abra as opções do baralho:
+Open the deck options:
 
 ```text
-Clique na engrenagem ao lado do baralho > Options
+Click the gear next to the deck > Options
 ```
 
-Configuração recomendada:
+Recommended settings:
 
 ```text
-FSRS: ativado
+FSRS: enabled
 Desired retention: 0.90
-New cards/day: 20 a 40
+New cards/day: 20 to 40
 Maximum reviews/day: 9999
 Learning steps: 10m
 Relearning steps: 10m
-Bury new siblings: ativado
-Bury review siblings: ativado
+Bury new siblings: enabled
+Bury review siblings: enabled
 ```
 
-Por que usar assim:
+Why these settings:
 
-- `FSRS` é o agendador moderno do Anki e costuma funcionar melhor que o agendador antigo.
-- `0.90` de retenção é um bom equilíbrio entre lembrar bem e não gerar revisões demais.
-- `20 a 40` cards novos por dia já é bastante para progredir sem acumular uma fila enorme.
-- `9999` em revisões evita que o Anki esconda cards vencidos.
-- `Bury siblings` é útil porque cada áudio gera dois cards relacionados, e normalmente é melhor não ver os dois no mesmo dia.
+- `FSRS` is Anki's modern scheduler and usually works better than the older scheduler.
+- `0.90` desired retention is a good balance between remembering well and avoiding too many reviews.
+- `20 to 40` new cards per day is enough to make progress without creating a huge review backlog.
+- `9999` maximum reviews/day prevents Anki from hiding due review cards.
+- `Bury siblings` is useful because each audio creates two related cards, and it is usually better not to see both on the same day.
 
-Depois de algumas semanas estudando, rode:
+After a few weeks of study, run:
 
 ```text
 Deck Options > FSRS > Optimize
 ```
 
-Assim o Anki ajusta o agendamento com base no seu histórico real de estudo.
+This lets Anki tune the schedule based on your real review history.
 
-## 11. Como estudar estes cards
+## 11. How to Study These Cards
 
-Nos cards em que a frente é áudio:
+For cards with audio on the front:
 
-1. Escute antes de ler qualquer coisa.
-2. Tente entender o significado.
-3. Mostre o verso.
-4. Leia a transcrição em luxemburguês.
-5. Leia a tradução.
-6. Repita a frase em voz alta.
+1. Listen before reading anything.
+2. Try to understand the meaning.
+3. Show the back.
+4. Read the Luxembourgish transcript.
+5. Read the translation.
+6. Repeat the sentence out loud.
 
-Nos cards em que a frente é a frase em luxemburguês:
+For cards with Luxembourgish on the front:
 
-1. Leia o luxemburguês.
-2. Tente lembrar o significado.
-3. Mostre o verso.
-4. Escute o áudio.
-5. Compare com a tradução.
+1. Read the Luxembourgish.
+2. Try to remember the meaning.
+3. Show the back.
+4. Listen to the audio.
+5. Compare it with the translation.
 
-Use os botões do Anki com honestidade:
+Use Anki's answer buttons honestly:
 
-- `Again`: você não entendeu ou esqueceu.
-- `Hard`: você entendeu, mas com bastante esforço.
-- `Good`: você entendeu bem o suficiente.
-- `Easy`: foi imediato.
+- `Again`: you did not understand it or forgot it.
+- `Hard`: you understood it, but with serious effort.
+- `Good`: you understood it well enough.
+- `Easy`: it was immediate.
 
-Não aperte `Hard` quando você esqueceu completamente. Nesse caso, use `Again`.
+Do not press `Hard` when you completely forgot the card. In that case, use `Again`.
 
-## 12. Referência das pastas
+## 12. Folder Reference
 
 ```text
-FLASHCARDS/        CSVs com cards em português
-FLASHCARDS_EN/     CSVs com cards em inglês
-FLASHCARDS_MEDIA/  MP3s usados pelas duas versões
-TRANSCRIPTS/       Transcrições em luxemburguês
-TRANSLATION/       Traduções em português do Brasil
-TRANSLATION_EN/    Traduções em inglês dos EUA
-MANIFESTS/         Arquivos para auditar áudio, transcrição e tradução
-scripts/           Scripts usados para gerar o projeto
+FLASHCARDS/        CSV files with Brazilian Portuguese cards
+FLASHCARDS_EN/     CSV files with US English cards
+FLASHCARDS_MEDIA/  MP3 files used by both versions
+TRANSCRIPTS/       Luxembourgish transcripts
+TRANSLATION/       Brazilian Portuguese translations
+TRANSLATION_EN/    US English translations
+MANIFESTS/         Files used to audit audio, transcript, and translation mapping
+scripts/           Scripts used to generate the project
 ```
 
-## 13. Documentação oficial do Anki
+## 13. Official Anki Documentation
 
-- Baixar o Anki: https://apps.ankiweb.net/
-- Importação: https://docs.ankiweb.net/importing/intro.html
-- Importar arquivos de texto e mídia: https://docs.ankiweb.net/importing/text-files.html
-- Arquivos do Anki e `collection.media`: https://docs.ankiweb.net/files.html
-- Opções de baralho e FSRS: https://docs.ankiweb.net/deck-options
+- Download Anki: https://apps.ankiweb.net/
+- Importing: https://docs.ankiweb.net/importing/intro.html
+- Importing text files and media: https://docs.ankiweb.net/importing/text-files.html
+- Anki files and `collection.media`: https://docs.ankiweb.net/files.html
+- Deck options and FSRS: https://docs.ankiweb.net/deck-options
