@@ -1,0 +1,16 @@
+- Qual é o seu nome?
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Quais cores você vê?
+- Eu vejo vermelho, branco e azul.
+- E você?
+- Eu vejo verde, vermelho e branco.
+- Que bandeiras são essas?
+- Essas são as bandeiras da França e de Luxemburgo.
+- Você consegue desenhar as bandeiras?
+- Sim, eu consigo.
+- Ótimo!
+- Obrigado!

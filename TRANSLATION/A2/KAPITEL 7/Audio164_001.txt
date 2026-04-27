@@ -1,0 +1,24 @@
+- Qual é o seu nome?
+- Meu nome é Jean Dupont.
+- De onde você vem?
+- Eu venho da França.
+- Você é suíço?
+- Não, eu sou francês.
+- Quantos anos você tem?
+- Eu tenho 35 anos.
+- Que remédios você já tem?
+- Eu tomo Aspirina todos os dias.
+- Você tem alergias?
+- Não, não tenho alergias.
+- Você tem problemas no coração?
+- Não, não tenho problema no coração.
+- Você tem febre ou tosse?
+- Sim, eu tenho um pouco de febre e tosse.
+- Há quanto tempo você tem esses sintomas?
+- Já faz três dias.
+- Você já viu um médico?
+- Não, eu fui direto à farmácia.
+- Certo, eu vou te dar uma receita para os remédios.
+- Muito obrigado.
+- Cuide-se bem!
+- Você também, obrigado!

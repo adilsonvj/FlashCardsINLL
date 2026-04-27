@@ -1,0 +1,16 @@
+- Qual é o seu nome?
+- Meu nome é Jean.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Esch.
+- O que você faz?
+- Eu sou estudante.
+- E você?
+- Eu também sou estudante.
+- Como você está?
+- Estou bem, obrigado.
+- E você?
+- Também bem, obrigado.

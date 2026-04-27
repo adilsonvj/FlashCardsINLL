@@ -1,0 +1,7 @@
+- What is your name?
+- My name is Franz.
+- Where are you from?
+- I come from Germany.
+- Are you German?
+- Yes, I am German.
+- And you?

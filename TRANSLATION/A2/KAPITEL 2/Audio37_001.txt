@@ -1,0 +1,22 @@
+- Olá
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- E você?
+- Eu sou alemã.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Esch.
+- O que você faz?
+- Eu sou estudante.
+- E o que você estuda?
+- Eu estudo medicina.
+- Você tem irmãos?
+- Sim, eu tenho uma irmã e um irmão.
+- Como você está?
+- Estou bem, obrigado.
+- E você?
+- Também bem, obrigado.

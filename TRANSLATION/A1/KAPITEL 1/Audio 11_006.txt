@@ -1,0 +1,7 @@
+- Qual é o seu nome?
+- Meu nome é E.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- E você?

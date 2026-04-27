@@ -1,0 +1,21 @@
+- Bom dia, eu gostaria de comprar um bilhete para Frankfurt.
+- Qual é o seu destino?
+- Bom dia.
+- Para você primeira classe ou segunda classe?
+- Segunda classe.
+- Um momento, eu vejo.
+- Sinto muito, segunda classe está completa.
+- Qual é a classe?
+- Você ainda tem lugar?
+- Sim, ainda há alguns lugares livres.
+- Então qual é a sua maior diferença de preço?
+- Segunda classe é cinquenta euros mais o ja.
+- O bilhete custa oitenta euros.
+- E quanto custa o trem?
+- Para Härdau e volta vinte, e para duas viagens vinte são para Frankfurt.
+- Andrei, é escola no bilhete.
+- Pague com dinheiro ou com cartão?
+- Com cartão.
+- Então está combinado, aqui está o seu bilhete.
+- Edi e uma boa viagem.
+- Obrigado, Edi.

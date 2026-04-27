@@ -1,0 +1,18 @@
+- What is your name?
+- My name is Anna.
+- And where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?
+- I am German.
+- How old are you?
+- I am 25 years old.
+- What do you do?
+- I am a student.
+- Where do you live?
+- I live in Luxembourg.
+- How are you?
+- I am well, thank you.
+- And you?
+- Also well, thank you.

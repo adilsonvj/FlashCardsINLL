@@ -1,0 +1,8 @@
+- What is your name?
+- My name is Rank.
+- Where are you from?
+- I come from Germany.
+- Are you Swiss?
+- No, I am German.
+- And you?
+- I am Luxembourgish.

@@ -1,0 +1,12 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- O que as pessoas gostam de fazer?
+- Eu gosto de jogar futebol.
+- E você?
+- Eu gosto de ler livros.
+- O que as pessoas gostam de fazer além disso?
+- Elas também gostam de jogar tênis.
+- E você?
+- Eu gosto de ouvir música.

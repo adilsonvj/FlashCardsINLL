@@ -1,0 +1,22 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- And how old are you?
+- I am 25 years old.
+- Where do you live?
+- I live in Esch.
+- What do you do?
+- I am a student.
+- And you?
+- I am also a student.
+- Do you have siblings?
+- Yes, I have a sister.
+- What is her name?
+- Her name is Marie.
+- Do you have pets?
+- Yes, I have a cat.
+- What is the cat's name?
+- The cat's name is Mimi.
+- Well, thank you very much!
+- You’re welcome!

@@ -1,0 +1,15 @@
+- What is your name?
+- My name is Anna.
+- And where are you from?
+- I come from Luxembourg.
+- How old are you?
+- I am 25 years old.
+- I hear red, white, and blue.
+- And you?
+- I hear green, red, and white.
+- What flags are those?
+- Those are the flags of France and Luxembourg.
+- Can you draw the flags?
+- Yes, I can.
+- Great!
+- Thank you!

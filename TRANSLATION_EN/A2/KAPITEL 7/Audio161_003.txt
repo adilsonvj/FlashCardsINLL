@@ -1,0 +1,19 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- Do you drink coffee?
+- Yes, I drink coffee.
+- And you?
+- I also drink coffee.
+- How many coffees do you drink every day?
+- I drink two cups of coffee every day.
+- Do you prefer coffee or tea?
+- I prefer coffee.
+- How do you drink your coffee?
+- With sugar and milk.
+- And you?
+- I drink my coffee without sugar.
+- Do you want another cup?
+- Yes, please.
+- Thank you very much!

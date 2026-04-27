@@ -1,0 +1,14 @@
+- What is your name?
+- My name is Genii.
+- And you from where?
+- I come from Luxembourg.
+- And you?
+- I come from Germany.
+- Are you Swiss?
+- No, I am German.
+- Are you French?
+- No, I am Luxembourgish.
+- How are you?
+- I am well, thank you.
+- And you?
+- Also well, thank you.

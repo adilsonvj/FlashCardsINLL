@@ -1,0 +1,80 @@
+- What is your name?
+- My name is Anna.
+- And where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?
+- I am German.
+- How are you?
+- I am well, thank you.
+- How old are you?
+- I am 25 years old.
+- What do you do?
+- I am a student.
+- Where do you live?
+- I live in Luxembourg.
+- Do you have siblings?
+- Yes, I have a sister.
+- What is your favourite colour?
+- My favourite colour is blue.
+- Do you have a girlfriend?
+- Yes, I have a good girlfriend.
+- What do you like to eat?
+- I like to eat noodles.
+- What do you drink?
+- I like to drink water.
+- How long have you been learning Luxembourgish?
+- I have been learning Luxembourgish for a year.
+- How often do you speak Luxembourgish?
+- I speak Luxembourgish every day.
+- What do you do in your free time?
+- I like to read books.
+- Do you have pets?
+- Yes, I have a cat.
+- What is your cat's name?
+- My cat's name is Mimi.
+- What is your favourite sport?
+- My favourite sport is swimming.
+- How is the weather today?
+- Today it is sunny.
+- How long does it take to get to you?
+- It takes about 20 minutes.
+- How many languages do you speak?
+- I speak three languages.
+- What is your favourite movie?
+- My favourite movie is a comedy.
+- How often do you go to the cinema?
+- I go to the cinema every month.
+- Who is your favourite musician?
+- My favourite musician is Ed Sheeran.
+- Do you have a family?
+- Yes, I have a small family.
+- How many people are in your family?
+- There are four people.
+- What are your parents' names?
+- My dad's name is Jean, my mom's name is Marie.
+- How long are you staying in Luxembourg?
+- I am staying for three months.
+- How often do you travel?
+- I travel every year.
+- Where do you like to go on vacation?
+- I like to go to the mountains.
+- What is your favourite dessert?
+- My favourite dessert is cake.
+- How often do you go to the restaurant?
+- I go to the restaurant every week.
+- What is your favourite table?
+- My favourite table is the cake.
+- How often do you go to the library?
+- I go to the library every week.
+- What do you like to read?
+- I like reading novels.
+- What is your favourite novel?
+- My favourite novel is "The World of Luxembourgish".
+- How often do you talk to your friends?
+- I talk to my friends every day.
+- How long does it take to get to you?
+- It takes about 15 minutes.
+- How much time do you spend with your family?
+- I spend a lot of time with my family.

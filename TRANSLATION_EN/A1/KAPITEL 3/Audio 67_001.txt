@@ -1,0 +1,12 @@
+- What is your name?
+- My name is Jean.
+- Where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?
+- I am French.
+- How are you?
+- I am good, thank you.
+- And you?
+- Also good, thank you.

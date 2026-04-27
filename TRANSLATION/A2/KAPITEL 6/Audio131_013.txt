@@ -1,0 +1,32 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- E você?
+- Eu sou alemã.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Esch.
+- O que você faz?
+- Eu sou estudante.
+- O que você estuda?
+- Eu estudo História.
+- Você tem irmãos?
+- Sim, eu tenho uma irmã.
+- Qual é o nome da sua irmã?
+- Ela se chama Marie.
+- Você tem animais de estimação?
+- Sim, eu tenho uma gata.
+- Qual é o nome da gata?
+- Ela se chama Mimi.
+- Qual é o seu prato favorito?
+- Eu gosto de comer pizza.
+- E você?
+- Eu gosto de spaghetti.
+- Como vai você?
+- Eu estou bem, obrigado.
+- E você?
+- Eu também estou bem.

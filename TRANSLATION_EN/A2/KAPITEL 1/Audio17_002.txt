@@ -1,0 +1,28 @@
+- What is your name?
+- My name is Anna.
+- And where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?
+- I am German.
+- How old are you?
+- I am 25 years old.
+- Where do you live?
+- I live in Esch.
+- What do you do?
+- I am a student.
+- Do you have siblings?
+- Yes, I have a sister.
+- Do you have pets?
+- No, I do not have any pets.
+- What is your favorite color?
+- My favorite color is blue.
+- What do you like to eat?
+- I like to eat noodles.
+- What do you drink?
+- I like to drink water.
+- How are you?
+- I am well, thank you.
+- And you?
+- I am also well.

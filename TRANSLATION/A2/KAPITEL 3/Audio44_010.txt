@@ -1,0 +1,17 @@
+- Olá
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho da França.
+- E você?
+- Eu sou de Luxemburgo.
+- Você é suíço?
+- Não, eu não sou suízio.
+- Você é francês?
+- Sim, eu sou francês.
+- O que você quer pedir?
+- Eu quero uma xícara de café para pedir.
+- E você?
+- Eu gostaria de uma xícara de chá.
+- Você quer mais alguma coisa?
+- Sim, eu gostaria de um pedaço de bolo.
+- Certo, eu já lhe trago isso.

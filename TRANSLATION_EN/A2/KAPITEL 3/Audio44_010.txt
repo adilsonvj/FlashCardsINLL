@@ -1,0 +1,17 @@
+- What is your name?
+- My name is Sophie.
+- And you?
+- I come from France.
+- And you?
+- I am from Luxembourg.
+- Are you Swiss?
+- No, I am not Swiss.
+- Are you French?
+- Yes, I am French.
+- What would you like to order?
+- I would like to order a cup of coffee.
+- And you?
+- I would like a cup of tea.
+- Would you like anything else?
+- Yes, I would like a piece of cake.
+- Alright, I’ll bring that to you right away.

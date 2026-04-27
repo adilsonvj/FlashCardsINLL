@@ -1,0 +1,18 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from France.
+- And you?
+- I am from Luxembourg.
+- Are you Swiss?
+- No, I am not Swiss.
+- Are you French?
+- Yes, I am French.
+- How old are you?
+- I am 25 years old.
+- Where do you live?
+- I live in Luxembourg.
+- What do you do?
+- I am a student.
+- And you?
+- I work as a teacher.

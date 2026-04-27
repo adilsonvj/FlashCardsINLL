@@ -1,0 +1,22 @@
+- What is your name?
+- My name is Anna.
+- And where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourger.
+- And you?
+- I am also Luxembourger.
+- How are you?
+- I am well, thank you.
+- How old are you?
+- I am 25 years old.
+- What do you do?
+- I am a student.
+- How long have you been learning Luxembourgish?
+- I have been learning for one year.
+- How do you find Luxembourgish?
+- It is difficult, but interesting.
+- Do you have a family?
+- Yes, I have a small family.
+- Thank you very much!
+- You’re welcome!

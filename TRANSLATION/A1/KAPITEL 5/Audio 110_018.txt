@@ -1,0 +1,13 @@
+- Bom dia
+- Qual é o seu nome?
+- Meu nome é Fal.
+- De onde você vem?
+- Eu venho do Senegal.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- O que você faz?
+- Eu sou estudante.
+- E você?
+- Eu também sou estudante.

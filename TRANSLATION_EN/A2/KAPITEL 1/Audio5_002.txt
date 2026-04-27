@@ -1,0 +1,20 @@
+- Hello, I’d like a ticket to Frankfurt.
+- How many stops are you driving?
+- Good morning.
+- Are you driving first class or second class?
+- Second class.
+- One moment, I’m looking.
+- I’m sorry, second class is full.
+- And first class?
+- Do you have any seats left?
+- Yes, there are still a few seats available.
+- So the biggest advantage in price?
+- First class is 25 Euro more expensive, the ticket costs 80 Euro.
+- And how much does the train fare?
+- At eight o’clock depart 20 and at twelve o’clock depart 20 you’re in Frankfurt.
+- And then here, I’ll send you the ticket.
+- Do you pay cash or by card?
+- By card.
+- Then that’s fine, here is your ticket.
+- Thanks, and have a good trip.
+- Thank you, same to you.

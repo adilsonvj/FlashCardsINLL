@@ -1,0 +1,28 @@
+- Qual é o seu nome?
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho da Alemanha.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Há quanto tempo você aprende luxemburguês?
+- Eu aprendo há um mês.
+- O que você faz profissionalmente?
+- Eu sou professora.
+- Você tem uma família?
+- Sim, eu sou casada e tenho dois filhos.
+- Como se chama seu marido?
+- Ele se chama Marc.
+- E você?
+- Eu sou estudante.
+- De onde você vem?
+- Eu vim da França.
+- Por quanto tempo você fica em Luxemburgo?
+- Estou aqui há um ano.
+- O que você gosta de fazer no seu tempo livre?
+- Gosto de ler livros e jogar tênis.
+- Como está o tempo hoje?
+- Está frio e chovendo.
+- Quantos graus está?
+- Está por volta de 5 graus.
+- Como se chama o mês?
+- O mês é dezembro.

@@ -1,0 +1,14 @@
+- Qual é o seu nome?
+- Meu nome é Genii.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- E você?
+- Eu venho de Däitschland.
+- Você é suíço?
+- Não, eu sou alemão.
+- Você é francês?
+- Não, eu sou luxemburguês.
+- Como vai você?
+- Estou bem, obrigado.
+- E você?
+- Também bem, obrigado.

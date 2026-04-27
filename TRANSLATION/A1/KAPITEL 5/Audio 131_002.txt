@@ -1,0 +1,26 @@
+- Boa noite.
+- Boa noite.
+- Você tem reserva?
+- Sim, temos uma mesa em nome Wilmes reservada.
+- Para duas pessoas?
+- Sim.
+- Aqui está sua mesa.
+- Você gostaria de um aperitivo?
+- Sim, dois Campari Orange, por favor.
+- Claro, aqui estão os cardápios.
+- Trago o aperitivo imediatamente.
+- Você prefere uma entrada ou apenas um prato principal?
+- Oh, eu acho que quero uma entrada, ou uma sopa ou uma salada.
+- Eu quero Foie Gras ou champanhe.
+- E como prato principal?
+- Não sei.
+- Peixe ou carne?
+- Eu quero carne.
+- Um bifê ou como sempre.
+- Não, eu também quero frango.
+- Eu quero uma torta ou sanduíche.
+- Você também quer uma sobremesa?
+- Ainda não sei.
+- Quero olhar.
+- Se quiser, dois Campari Orange.
+- Você já escolheu?

@@ -1,0 +1,22 @@
+- Olá
+- Bom dia
+- Qual é o seu nome?
+- Meu nome é
+- E você?
+- E você?
+- De onde você vem?
+- Da Suíça
+- Você é suíço?
+- Você é francês?
+- Eu venho da França
+- Eu venho de
+- eu falo
+- um pouco
+- não falo francês
+- Que língua você fala?
+- duas línguas
+- também
+- Não
+- bandeiras
+- desenhar
+- por favor

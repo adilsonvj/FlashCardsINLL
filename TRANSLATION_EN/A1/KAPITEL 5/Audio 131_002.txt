@@ -1,0 +1,26 @@
+- Good evening.
+- Good evening.
+- Have you reserved a table?
+- Yes, we have a table under the name Wilmes reserved.
+- For two people?
+- Yes.
+- Here you go, here is your table.
+- Would you like an aperitif?
+- Yes, two Campari Orange, please.
+- Certainly, here are the menus.
+- I bring the aperitif right away.
+- Would you like an entree or just a main course?
+- Oh, I think I want an entree, either a soup or a salad.
+- I want the foie gras or the scallops.
+- And as a main?
+- I don’t know.
+- Fish or meat?
+- I want meat.
+- A steak, as always.
+- No, I want also the chicken.
+- I want a pastry or a sandwich.
+- Would you also like a dessert?
+- I don’t know yet.
+- I’d like to watch.
+- Please, two Campari Orange.
+- Have you already chosen?

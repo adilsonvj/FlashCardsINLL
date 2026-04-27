@@ -1,0 +1,3 @@
+- Look at products from the supermarket.
+- How many items are in the advertisement?
+- Listen and note the price.

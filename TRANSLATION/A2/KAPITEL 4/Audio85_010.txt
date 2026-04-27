@@ -1,0 +1,18 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho da França.
+- E você?
+- Eu sou de Luxemburgo.
+- Você é suíço?
+- Não, eu não sou suíço.
+- Você é francês?
+- Sim, eu sou francês.
+- Que idade você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- O que você faz?
+- Eu sou estudante.
+- E você?
+- Eu trabalho como professora.

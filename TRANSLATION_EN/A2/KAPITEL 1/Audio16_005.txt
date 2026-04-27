@@ -1,0 +1,176 @@
+- What is your name?
+- My name is Anna.
+- And where are you from?
+- I come from Germany.
+- Are you Swiss?
+- No, I am German.
+- And you?
+- I am Luxembourgish.
+- How are you?
+- I am good, thank you.
+- How old are you?
+- I am 25 years old.
+- What do you do?
+- I am a student.
+- Where do you live?
+- I live in Luxembourg.
+- Do you have siblings?
+- Yes, I have a sister.
+- What is your favorite color?
+- My favorite color is blue.
+- Do you have a girlfriend?
+- Yes, I have a good girlfriend.
+- What do you like to eat?
+- I like to eat noodles.
+- How long have you learned Luxembourgish?
+- I have been learning Luxembourgish for a year.
+- How often do you speak Luxembourgish?
+- I speak Luxembourgish every day.
+- What is your favorite sport?
+- My favorite sport is swimming.
+- How many languages do you speak?
+- I speak three languages.
+- What do you do in your free time?
+- I like to read books.
+- How is the weather today?
+- It is sunny and warm today.
+- How long will you stay in Luxembourg?
+- I stay for three months.
+- What is your husband's name?
+- My husband's name is Tom.
+- Do you have children?
+- Yes, I have two children.
+- What is your dog's name?
+- My dog's name is Max.
+- How much does that cost?
+- It costs five euros.
+- How long does the class last?
+- The class lasts one hour.
+- How often do you go to the library?
+- I go to the library every week.
+- How long does it take to go there?
+- It takes five minutes.
+- What is your teacher's name?
+- My teacher's name is Mr. Müller.
+- How many people are in the class?
+- There are twenty people in the class.
+- What is the capital of Luxembourg?
+- The capital is Luxembourg City.
+- How long have you been learning already?
+- I have been learning for one month.
+- What is your phone named?
+- My phone is an iPhone.
+- What is your car named?
+- My car is a BMW.
+- What is your doctor's name?
+- My doctor is Dr. Schmit.
+- What is your favorite movie?
+- My favorite movie is "Amélie".
+- What is your favorite singer?
+- My favorite singer is Ed Sheeran.
+- What is your favorite book?
+- My favorite book is "Harry Potter".
+- What is your favorite restaurant?
+- My favorite restaurant is "La Table".
+- What is your favorite place in Luxembourg?
+- My favorite place is the park.
+- What is your favorite day?
+- My favorite day is Saturday.
+- What is your favorite Monday?
+- My favorite Monday is June 1.
+- What is your favorite year?
+- My favorite year is 2023.
+- What is your favorite months?
+- My favorite months are June and July.
+- What is your favorite weather?
+- My favorite weather is sunny.
+- Who is your favorite athlete?
+- My favorite athlete is Roger Federer.
+- Who is your favorite actor?
+- My favorite actor is Leonardo DiCaprio.
+- Who is your favorite actress?
+- My favorite actress is Meryl Streep.
+- Who is your favorite singer?
+- My favorite singer is Adele.
+- What is your favorite cake?
+- My favorite cake is chocolate.
+- What is your favorite dessert?
+- My favorite dessert is tiramisu.
+- What is your favorite drink?
+- My favorite drink is water.
+- What is your favorite beer?
+- My favorite beer is Pils.
+- What is your favorite wine?
+- My favorite wine is Riesling.
+- What is your favorite coffee?
+- My favorite coffee is Espresso.
+- What is your favorite tea?
+- My favorite tea is green tea.
+- What is your favorite fruit?
+- My favorite fruit is apple.
+- What is your favorite vegetable?
+- My favorite vegetable is carrot.
+- What is your favorite animal?
+- My favorite animal is cat.
+- What is your favorite flower?
+- My favorite flower is rose.
+- What is your weekend plan?
+- My weekend plan is to meet friends.
+- What is your vacation plan?
+- My vacation plan is to go to the cities.
+- What is your holiday plan?
+- My plan is to visit the family.
+- What is your plan for the year?
+- My plan is to travel a lot.
+- What is your plan for the future?
+- My plan is to start a family.
+- What is your plan for your career?
+- My plan is to find a good job.
+- What is your plan for health?
+- My plan is to train a lot.
+- What is your plan for education?
+- My plan is to continue studying.
+- What is your plan for free time?
+- My plan is to listen to music.
+- What is your plan for culture?
+- My plan is to enjoy music and cinema.
+- What is your plan for nature?
+- My plan is to go hiking.
+- What is your plan for cooking?
+- My plan is to try new recipes.
+- What is your plan for art?
+- My plan is to make paintings.
+- What is your plan for photography?
+- My plan is to take photos.
+- What is your plan for travel?
+- My plan is to discover new places.
+- What is your plan for family?
+- My plan is to spend time with family.
+- What is your plan for friends?
+- My plan is to celebrate with friends.
+- What is your plan for your apartment?
+- My plan is to decorate the apartment.
+- What is your plan for the car?
+- My plan is to buy a new car.
+- What is your plan for pets?
+- My plan is to get a dog.
+- What is your plan for screens?
+- My plan is to spend less time in front of screens.
+- What is your plan for society?
+- My plan is to engage more in social activities.
+- What is your plan for the environment?
+- My plan is to recycle more.
+- What is your plan for politics?
+- My plan is to be more informed.
+- What is your plan for science?
+- My plan is to learn more.
+- What is your plan for technology?
+- My plan is to discover new technology.
+- What is your plan for education?
+- My plan is to continue studying.
+- What is your plan for creativity?
+- My plan is to create new things.
+- What is your plan for happiness?
+- My plan is to be happy.
+- What is your plan for the future?
+- My plan is to have a good future.

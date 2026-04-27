@@ -1,0 +1,14 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- E você?
+- Eu sou da Alemanha.
+- Você é suíço?
+- Não, eu não sou suíço.
+- Você é francês?
+- Sim, eu sou francês.
+- Como vai você?
+- Eu vou bem, obrigado.
+- E como vai você?
+- Também bem, obrigado.

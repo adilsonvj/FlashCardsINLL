@@ -1,0 +1,7 @@
+- Lauscht dat all dës Wochendeeg: Méindeg,
+- Dënschdeg,
+- Mëttwoch,
+- Donneschdeg,
+- Freideg,
+- Samschdeg,
+- Sonndeg.

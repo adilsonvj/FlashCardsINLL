@@ -1,0 +1,8 @@
+- What is your name?
+- Paul Becker, and you?
+- My name is François.
+- Where are you from?
+- From Switzerland, from Basel.
+- Are you Swiss, and you?
+- I am French.
+- I come from France, from Nancy.

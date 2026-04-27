@@ -1,0 +1,22 @@
+- Hello, my name is Markus.
+- And you?
+- What is your name?
+- I am Isabel.
+- Are you coming to Neies?
+- Where are you from, Markus?
+- I come from Germany.
+- And you?
+- Can you come from Italy?
+- No, I do not come from Italy.
+- I come from Portugal.
+- Ah, you are Portuguese.
+- Then you understand Spanish as well, right?
+- Yes, a little, we do not speak Spanish.
+- I speak Portuguese and French.
+- And you?
+- What languages do you speak?
+- I speak German and English.
+- Do you not speak French?
+- No.
+- In the school we all learn two more Luxembourgish.
+- Correct.

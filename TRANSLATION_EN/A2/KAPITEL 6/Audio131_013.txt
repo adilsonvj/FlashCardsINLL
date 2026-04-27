@@ -1,0 +1,32 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?
+- I am German.
+- How old are you?
+- I am 25 years old.
+- Where do you live?
+- I live in Esch.
+- What do you do?
+- I am a student.
+- What do you study?
+- I study history.
+- Do you have siblings?
+- Yes, I have a sister.
+- What is your sister called?
+- She is called Marie.
+- Do you have pets?
+- Yes, I have a cat.
+- What is the cat called?
+- It is called Mimi.
+- What is your favorite food?
+- I like to eat pizza.
+- And you?
+- I like to eat spaghetti.
+- How are you?
+- I am well, thank you.
+- And you?
+- I am also well.

@@ -1,0 +1,52 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from France.
+- And you?
+- I am from Luxembourg.
+- Are you Swiss?
+- No, I am German.
+- How old are you?
+- I am 25 years old.
+- Where do you live?
+- I live in Luxembourg.
+- What do you do?
+- I am a student.
+- And what do you study?
+- I study history.
+- Do you have siblings?
+- Yes, I have a sister.
+- What is your sister's name?
+- Her name is Marie.
+- Do you have pets?
+- Yes, I have a cat.
+- What is your cat’s name?
+- Her name is Mimi.
+- What is your favorite food?
+- I like to eat pizza.
+- And you?
+- I like to eat noodles.
+- How long have you been learning Luxembourgish?
+- I have been learning for one year.
+- Is it hard?
+- Yes, it’s hard, but it’s interesting.
+- What do you do in your free time?
+- I like to read books.
+- And what else do you do?
+- I play guitar.
+- How often do you play guitar?
+- I play every day.
+- How long have you been playing guitar?
+- I have been playing for three years.
+- How is the weather today?
+- It’s sunny and warm.
+- Do you like going on vacation?
+- Yes, I enjoy going on vacation.
+- Where do you like to go the most?
+- I like to go to the city.
+- Do you have weekend plans?
+- Yes, I’m going to the cinema.
+- What kind of movie do you watch?
+- I watch a comedy.
+- Great, have fun!
+- Thank you! You too!

@@ -1,0 +1,6 @@
+- Eu gosto de ir ao cinema.
+- E você?
+- Sim, eu também gosto de ir ao cinema.
+- E você, você também gosta de ir ao cinema?
+- Não, eu não gosto de ir ao cinema.
+- Eu gosto de assistir televisão.

@@ -1,0 +1,14 @@
+- Você está doente?
+- Sim, estou doente.
+- Como você se sente?
+- Eu me sinto cansado e tenho febre.
+- Você tem tosse?
+- Sim, eu tenho tosse.
+- Você viu um médico?
+- Não, ainda não.
+- Você vai à farmácia?
+- Sim, eu vou à farmácia.
+- Bom, bom apetite e uma rápida melhora!
+- Muito obrigado!
+- E você?
+- Eu estou saudável, obrigado.

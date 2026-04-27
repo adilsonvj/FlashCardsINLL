@@ -1,0 +1,104 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- How old are you?
+- I am 25 years old.
+- Where do you live?
+- I live in Esch.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?
+- I am German.
+- How are you?
+- I am well, thank you.
+- How long have you been learning Luxembourgish?
+- I have been learning for a month.
+- What do you do professionally?
+- I am a teacher.
+- Do you have children?
+- Yes, I have two children.
+- What are your children’s names?
+- They are named Tom and Léa.
+- Where do you work?
+- I work in a school in Luxembourg City.
+- What is your favorite hobby?
+- My favorite hobby is listening to music.
+- Do you have a family?
+- Yes, I am married.
+- How long have you been married?
+- I have been married for five years.
+- How many languages do you speak?
+- I speak three languages: Luxembourgish, German, and French.
+- How long will you stay in Luxembourg?
+- I will stay here for another month.
+- How is the weather today?
+- It is sunny and warm.
+- What do you like to eat?
+- I like to eat noodles.
+- Do you have a favorite place in Luxembourg?
+- Yes, I like going to the park.
+- How often do you go to the park?
+- I go to the park every day.
+- What do you do on the weekend?
+- On the weekend I visit my friends.
+- What is your best friend's name?
+- My best friend's name is Marc.
+- How long have you known him?
+- I have known him for five years.
+- How often do you talk to him?
+- We talk every day.
+- Do you have a pet?
+- Yes, I have a cat.
+- What is your cat’s name?
+- Her name is Mimi.
+- What color is your cat?
+- She is black and white.
+- How many people are in your family?
+- There are five people in the family.
+- What are your parents’ names?
+- My father is named Jean and my mother is named Marie.
+- How long have you been learning Luxembourgish?
+- I have been learning for a month.
+- How do you find the language?
+- I find it beautiful and difficult.
+- How often do you practice Luxembourgish?
+- I practice every day.
+- How long is your course?
+- My course lasts two hours.
+- How many people are in your class?
+- There are ten people in the class.
+- What is your teacher’s name?
+- My teacher’s name is Madame Müller.
+- How often do you go to school?
+- I go to school five times a week.
+- How long is your trip to school?
+- My trip to school takes 20 minutes.
+- How do you get to school?
+- I take the bus to school.
+- How long will you stay in Luxembourg?
+- I will stay here for another month.
+- How do you find the city?
+- I find the city nice and lively.
+- What do you like to do in your free time?
+- I like to read books.
+- Do you have a favorite book?
+- Yes, my favorite book is “The Journey.”
+- What is the name of your favorite movie?
+- My favorite movie is “The Life.”
+- How often do you go to the cinema?
+- I go to the cinema every month.
+- What is the name of your favorite singer?
+- My favorite singer is Tom.
+- Do you have a favorite sport?
+- Yes, I enjoy playing tennis.
+- How often do you play tennis?
+- I play tennis twice a week.
+- How long have you been learning Luxembourgish?
+- I have been learning for a month.
+- How do you find the language?
+- I find it beautiful and difficult.
+- How often do you practice Luxembourgish?
+- I practice every day.
+- Thank you very much!
+- You’re welcome!

@@ -1,0 +1,18 @@
+- Restaurante do Jeanette, bom dia!
+- Bom dia!
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Quantas pessoas são?
+- Somos quatro pessoas.
+- Você quer reservar?
+- Sim, por favor.
+- Para quando?
+- Para sábado à noite.
+- Às 19 horas?
+- Sim, isso é bom.
+- Seu nome mais uma vez?
+- Sophie Müller.
+- Obrigado, Sophie. Até sábado!
+- Obrigado, até logo!

@@ -1,0 +1,13 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho da França.
+- O que você quer pedir?
+- Eu gostaria de um chá, por favor.
+- E você?
+- Eu gostaria de um café, por favor.
+- Você quer mais alguma coisa?
+- Sim, eu gostaria de um pedaço de bolo.
+- Isso é bom. Eu também vou querer um pedaço de bolo.
+- Muito obrigado!
+- De nada!

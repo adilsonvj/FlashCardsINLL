@@ -1,0 +1,176 @@
+- Wéi heescht Dir?
+- Mäi Numm ass Anna.
+- Vu wou kënnt Dir?
+- Ech kommen aus Däitschland.
+- Sidd Dir Schwäizer?
+- Nee, ech sinn Däitsch.
+- An Dir?
+- Ech sinn Lëtzebuerger.
+- Wéi geet et Iech?
+- Et geet mir gutt, merci.
+- Wéi al sidd Dir?
+- Ech sinn 25 Joer al.
+- Wat maacht Dir?
+- Ech sinn Studentin.
+- Wou wunnt Dir?
+- Ech wunnt zu Lëtzebuerg.
+- Hutt Dir Geschwëster?
+- Jo, ech hunn eng Schwëster.
+- Wat ass Äre Lieblingsfaarf?
+- Mäi Lieblingsfaarf ass blo.
+- Hutt Dir eng Frëndin?
+- Jo, ech hunn eng gutt Frëndin.
+- Wat iesst Dir gär?
+- Ech iessen gär Nuddelen.
+- Wéi laang léiert Dir Lëtzebuergesch?
+- Ech léieren zënter engem Joer Lëtzebuergesch.
+- Wéi oft schwätzt Dir Lëtzebuergesch?
+- Ech schwätzen all Dag Lëtzebuergesch.
+- Wat ass Äre Lieblingssport?
+- Mäi Lieblingssport ass Schwammen.
+- Wéi vill Sproochen schwätzt Dir?
+- Ech schwätzen dräi Sproochen.
+- Wat maacht Dir an der Fräizäit?
+- Ech liesen gär Bicher.
+- Wéi ass d'Wieder haut?
+- Et ass sonneg a waarm haut.
+- Wéi laang bleift Dir zu Lëtzebuerg?
+- Ech bleiwe fir dräi Méint.
+- Wéi heescht Äre Mann?
+- Mäi Mann heescht Tom.
+- Hutt Dir Kanner?
+- Jo, ech hunn zwou Kanner.
+- Wéi heescht Ären Hond?
+- Mäi Hond heescht Max.
+- Wéi vill kascht dat?
+- Et kascht fënnef Euro.
+- Wéi laang dauert d'Cours?
+- D'Cours dauert eng Stonn.
+- Wéi oft gitt Dir an d'Bibliothéik?
+- Ech ginn all Woch an d'Bibliothéik.
+- Wéi laang dauert et fir dohin ze goen?
+- Et dauert fënnef Minutten.
+- Wéi heescht Ären Enseignant?
+- Mäi Enseignant heescht Herr Müller.
+- Wéi vill Leit sinn an der Klass?
+- Et sinn zwanzeg Leit an der Klass.
+- Wéi heescht d'Haaptstad vun Lëtzebuerg?
+- D'Haaptstad heescht Lëtzebuerg-Stad.
+- Wéi laang léiert Dir schonn?
+- Ech léieren zënter engem Mount.
+- Wéi heescht Ären Telefon?
+- Mäi Telefon ass en iPhone.
+- Wéi heescht Ären Auto?
+- Mäi Auto ass eng BMW.
+- Wéi heescht Ären Dokter?
+- Mäi Dokter heescht Dokter Schmit.
+- Wéi heescht Ären Lieblingsfilm?
+- Mäi Lieblingsfilm heescht "Amélie".
+- Wéi heescht Ären Lieblingssänger?
+- Mäi Lieblingssänger heescht Ed Sheeran.
+- Wéi heescht Ären Lieblingsbuch?
+- Mäi Lieblingsbuch heescht "Harry Potter".
+- Wéi heescht Ären Lieblingsrestaurant?
+- Mäi Lieblingsrestaurant heescht "La Table".
+- Wéi heescht Ären Lieblingsplaz zu Lëtzebuerg?
+- Mäi Lieblingsplaz ass de Park.
+- Wéi heescht Ären Lieblingsdag?
+- Mäi Lieblingsdag ass Samschdeg.
+- Wéi heescht Ären Lieblingsméindeg?
+- Mäi Lieblingsméindeg ass den 1. Juni.
+- Wéi heescht Ären Lieblingsjoer?
+- Mäi Lieblingsjoer ass 2023.
+- Wéi heescht Ären Lieblingsméint?
+- Mäi Lieblingsméint sinn Juni a Juli.
+- Wéi heescht Ären Lieblingswieder?
+- Mäi Lieblingswieder ass sonneg.
+- Wéi heescht Ären Lieblingssportler?
+- Mäi Lieblingssportler heescht Roger Federer.
+- Wéi heescht Ären Lieblingsschauspiller?
+- Mäi Lieblingsschauspiller heescht Leonardo DiCaprio.
+- Wéi heescht Ären Lieblingsschauspillerin?
+- Mäi Lieblingsschauspillerin heescht Meryl Streep.
+- Wéi heescht Ären Lieblingssängerin?
+- Mäi Lieblingssängerin heescht Adele.
+- Wéi heescht Ären Lieblingskuch?
+- Mäi Lieblingskuch ass Schockela.
+- Wéi heescht Ären Lieblingsdessert?
+- Mäi Lieblingsdessert ass Tiramisu.
+- Wéi heescht Ären Lieblingsgetränk?
+- Mäi Lieblingsgetränk ass Waasser.
+- Wéi heescht Ären Lieblingsbier?
+- Mäi Lieblingsbier ass Pils.
+- Wéi heescht Ären Lieblingswäin?
+- Mäi Lieblingswäin ass Riesling.
+- Wéi heescht Ären Lieblingskafé?
+- Mäi Lieblingskafé ass Espresso.
+- Wéi heescht Ären Lieblingstee?
+- Mäi Lieblingstee ass grénge Tee.
+- Wéi heescht Ären Lieblingsfruucht?
+- Mäi Lieblingsfruucht ass Apel.
+- Wéi heescht Ären Lieblingsgeméis?
+- Mäi Lieblingsgeméis ass Karrott.
+- Wéi heescht Ären Lieblingsdéier?
+- Mäi Lieblingsdéier ass Kaz.
+- Wéi heescht Ären Lieblingsblumm?
+- Mäi Lieblingsblumm ass Rose.
+- Wéi heescht Ären Lieblingsplang fir d'Weekend?
+- Mäi Lieblingsplang ass mat Frënn ze treffen.
+- Wéi heescht Ären Lieblingsplang fir d'Vakanz?
+- Mäi Lieblingsplang ass an d'Bierger ze goen.
+- Wéi heescht Ären Lieblingsplang fir d'Feierdeeg?
+- Mäi Lieblingsplang ass d'Famill ze besichen.
+- Wéi heescht Ären Lieblingsplang fir d'Joer?
+- Mäi Lieblingsplang ass vill ze reesen.
+- Wéi heescht Ären Lieblingsplang fir d'Zukunft?
+- Mäi Lieblingsplang ass eng Famill ze grënnen.
+- Wéi heescht Ären Lieblingsplang fir d'Karriär?
+- Mäi Lieblingsplang ass eng gutt Aarbecht ze fannen.
+- Wéi heescht Ären Lieblingsplang fir d'Gesondheet?
+- Mäi Lieblingsplang ass vill ze trainéieren.
+- Wéi heescht Ären Lieblingsplang fir d'Bildung?
+- Mäi Lieblingsplang ass weider ze léieren.
+- Wéi heescht Ären Lieblingsplang fir d'Fräizäit?
+- Mäi Lieblingsplang ass Musek ze lauschteren.
+- Wéi heescht Ären Lieblingsplang fir d'Kultur?
+- Mäi Lieblingsplang ass Musek a Kino ze genéissen.
+- Wéi heescht Ären Lieblingsplang fir d'Natur?
+- Mäi Lieblingsplang ass wanderen ze goen.
+- Wéi heescht Ären Lieblingsplang fir d'Kichen?
+- Mäi Lieblingsplang ass nei Rezepter ze probéieren.
+- Wéi heescht Ären Lieblingsplang fir d'Konscht?
+- Mäi Lieblingsplang ass Molerei ze maachen.
+- Wéi heescht Ären Lieblingsplang fir d'Fotografie?
+- Mäi Lieblingsplang ass Fotoen ze maachen.
+- Wéi heescht Ären Lieblingsplang fir d'Rees?
+- Mäi Lieblingsplang ass nei Plazen ze entdecken.
+- Wéi heescht Ären Lieblingsplang fir d'Famill?
+- Mäi Lieblingsplang ass Zäit mat der Famill ze verbréngen.
+- Wéi heescht Ären Lieblingsplang fir d'Frënn?
+- Mäi Lieblingsplang ass mat Frënn ze feieren.
+- Wéi heescht Ären Lieblingsplang fir d'Wunneng?
+- Mäi Lieblingsplang ass d'Wunneng ze dekoréieren.
+- Wéi heescht Ären Lieblingsplang fir d'Auto?
+- Mäi Lieblingsplang ass en neie Auto ze kafen.
+- Wéi heescht Ären Lieblingsplang fir d'Haustéier?
+- Mäi Lieblingsplang ass en Hond ze huelen.
+- Wéi heescht Ären Lieblingsplang fir d'Bildschierm?
+- Mäi Lieblingsplang ass manner Zäit virun Bildschiermer ze verbréngen.
+- Wéi heescht Ären Lieblingsplang fir d'Gesellschaft?
+- Mäi Lieblingsplang ass méi sozial Aktivitéiten ze maachen.
+- Wéi heescht Ären Lieblingsplang fir d'Ëmwelt?
+- Mäi Lieblingsplang ass méi recycléieren.
+- Wéi heescht Ären Lieblingsplang fir d'Politik?
+- Mäi Lieblingsplang ass méi informéiert ze sinn.
+- Wéi heescht Ären Lieblingsplang fir d'Wëssenschaft?
+- Mäi Lieblingsplang ass méi ze léieren.
+- Wéi heescht Ären Lieblingsplang fir d'Technologie?
+- Mäi Lieblingsplang ass nei Technologie ze entdecken.
+- Wéi heescht Ären Lieblingsplang fir d'Bildung?
+- Mäi Lieblingsplang ass weider ze studéieren.
+- Wéi heescht Ären Lieblingsplang fir d'Kreativitéit?
+- Mäi Lieblingsplang ass nei Saachen ze kreéieren.
+- Wéi heescht Ären Lieblingsplang fir d'Gléck?
+- Mäi Lieblingsplang ass glécklech ze sinn.
+- Wéi heescht Ären Lieblingsplang fir d'Zukunft?
+- Mäi Lieblingsplang ass eng gutt Zukunft ze hunn.

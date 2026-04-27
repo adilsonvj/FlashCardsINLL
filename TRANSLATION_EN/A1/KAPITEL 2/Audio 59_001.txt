@@ -1,0 +1,4 @@
+- Hello, my name is Paul Hoffmann.
+- I am 42 years old.
+- I am a lawyer in the city.
+- I live, however, abroad, in Germany.

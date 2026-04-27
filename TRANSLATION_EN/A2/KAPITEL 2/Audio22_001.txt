@@ -1,0 +1,14 @@
+- How many people live in the shared flat?
+- Three.
+- What are you studying?
+- I am studying Economics at the University of Luxembourg at the Lampertsbierg.
+- Where do you live?
+- I live with three other students in a shared flat in Mamer.
+- How big is the apartment?
+- We share an apartment of 100 square meters.
+- How big are the rooms?
+- Each person has a room between 14 and 20 square meters.
+- Is the shared living arrangement working well?
+- Yes, the shared living arrangement works very well.
+- Is it cheap or expensive in Luxembourg?
+- In Luxembourg it is cheap and also expensive.

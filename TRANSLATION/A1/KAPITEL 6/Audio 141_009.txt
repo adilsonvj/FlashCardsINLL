@@ -1,0 +1,16 @@
+- Olá?
+- Sim, estou.
+- Qual é o seu nome?
+- Meu nome é Jean.
+- De onde você vem?
+- Eu venho da França.
+- E você?
+- Eu vim de Luxemburgo.
+- Você é suíço?
+- Não, sou luxemburguês.
+- Você é francês?
+- Sim, eu sou francês.
+- Quantos anos você tem?
+- Tenho 25 anos.
+- E você?
+- Tenho 30 anos.

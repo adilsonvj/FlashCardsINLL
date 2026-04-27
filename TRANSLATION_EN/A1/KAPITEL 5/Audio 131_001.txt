@@ -1,0 +1,13 @@
+- What is your name?
+- My name is Sophie.
+- And you?
+- I come from France.
+- What would you like to order?
+- I would like a tea, please.
+- And you?
+- I would like a coffee, please.
+- Would you like anything else?
+- Yes, I would like a piece of cake.
+- That’s good. I’ll also have a piece of cake.
+- Thank you very much!
+- You’re welcome!

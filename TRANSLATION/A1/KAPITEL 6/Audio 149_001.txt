@@ -1,0 +1,3 @@
+- Ouve e escreva o número correto na imagem correta.
+- Com que frequência você tem dor de cabeça?
+- Isso é uma vez por mês ou mais comum ainda?

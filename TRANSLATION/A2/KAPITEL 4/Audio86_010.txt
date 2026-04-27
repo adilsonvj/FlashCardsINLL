@@ -1,0 +1,150 @@
+- Olá
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é suíço?
+- Não, eu não sou suíço.
+- Você é francês?
+- Não, eu não sou francês.
+- E você?
+- Eu sou alemão.
+- Como vai você?
+- Está bem, obrigado.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- O que você faz?
+- Eu sou estudante.
+- O que você estuda?
+- Eu estudo História.
+- Você tem irmãos?
+- Sim, eu tenho uma irmã.
+- Você tem animais de estimação?
+- Não, eu não tenho animais de estimação.
+- Qual é a sua cor favorita?
+- Minha cor favorita é azul.
+- O que você gosta de comer?
+- Eu gosto de noodles.
+- O que você gosta de beber?
+- Eu gosto de água.
+- há quanto tempo você aprende luxemburguês?
+- Eu estou aprendendo luxemburguês há um ano.
+- Com que frequência você fala luxemburguês?
+- Eu falo luxemburguês todos os dias.
+- O que você faz no seu tempo livre?
+- Eu gosto de ler livros.
+- Como está o tempo hoje?
+- Hoje está ensolarado.
+- Como é a cidade?
+- A cidade é bonita.
+- Como é a vida em Luxemburgo?
+- A vida é ótima.
+- Por quanto tempo você vai ficar aqui?
+- Vou ficar aqui por uma semana.
+- Que línguas você fala?
+- Eu falo alemão e inglês.
+- Qual é o nome do seu amigo?
+- Meu amigo se chama Marc.
+- Quantos anos tem seu amigo?
+- Ele tem 27 anos.
+- O que seu amigo faz?
+- Ele é engenheiro.
+- Com que frequência você vê seu amigo?
+- Nos vemos toda semana.
+- O que você acha da comida luxemburguesa?
+- Acho muito boa.
+- Qual lugar você mais gosta em Luxemburgo?
+- Acho o parque o mais legal.
+- Quanto tempo leva para chegar ao trabalho?
+- Leva cerca de 30 minutos.
+- Qual tipo de música você gosta?
+- Eu gosto de música pop.
+- Com que frequência você vai ao cinema?
+- Vou ao cinema todo mês.
+- Que cor tem o seu carro?
+- Meu carro é vermelho.
+- Quantos idiomas você aprende?
+- Eu aprendo três idiomas.
+- Como se chama seu professor?
+- Meu professor se chama Herr Müller.
+- Quanto tempo dura o curso?
+- O curso dura duas horas.
+- Que hora é?
+- São 10 da manhã.
+- Como vai você hoje?
+- Estou bem, obrigado.
+- Qual é o nome do seu filme favorito?
+- Meu filme favorito se chama "Amélie".
+- Qual lugar você gostaria de visitar?
+- Eu gostaria de visitar Paris.
+- Quanto tempo você fica lá?
+- Eu fico lá por cinco dias.
+- Que comida você gosta?
+- Eu gosto de pizza.
+- Com que frequência você vai à biblioteca?
+- Vou à biblioteca toda semana.
+- Que esporte você pratica?
+- Eu pratico futebol.
+- Há quanto tempo você estuda?
+- Estou estudando há um ano.
+- Qual língua é difícil?
+- Luxemburguês é difícil.
+- Qual língua é fácil?
+- Inglês é fácil.
+- Como se chama seu livro favorito?
+- Meu livro favorito se chama "Harry Potter".
+- Qual é o seu lugar favorito?
+- Meu lugar favorito é a praia.
+- Com que frequência você vai à cidade?
+- Vou à cidade todo fim de semana.
+- Que hora é agora?
+- São 3 da noite.
+- Como vai você agora?
+- Estou bem.
+- Como se chama o seu atleta favorito?
+- Meu atleta favorito se chama Roger Federer.
+- Qual língua você mais gosta de falar?
+- Eu falo alemão mais querido.
+- Quanto tempo leva para ir à escola?
+- Leva 15 minutos.
+- Qual lugar é interessante?
+- A música é interessante.
+- Com que frequência você vai ao cinema?
+- Vou ao cinema todo mês.
+- Que cor tem o seu suéter?
+- Meu suéter é verde.
+- Quantas pessoas há na sua família?
+- São cinco pessoas na minha família.
+- Como se chama o seu pai?
+- Meu pai se chama Jean.
+- Como se chama sua mãe?
+- Minha mãe se chama Marie.
+- Com que frequência você vai à loja?
+- Vou à loja todo dia.
+- Qual lugar é bonito?
+- O parque é bonito.
+- Quanto tempo leva para chegar ao trabalho?
+- Leva 20 minutos.
+- Que tipo de música você gosta?
+- Eu gosto de jazz.
+- Com que frequência você vai à biblioteca?
+- Vou à biblioteca toda semana.
+- Que esporte você pratica?
+- Eu faço natação.
+- Há quanto tempo você aprende?
+- Estou aprendendo há meio ano.
+- Qual língua é difícil?
+- Francês é difícil.
+- Qual língua é fácil?
+- Alemão é fácil.
+- Como se chama seu filme favorito?
+- Meu filme favorito se chama "Inception".
+- Qual é o seu lugar favorito?
+- Meu lugar favorito é a montanha.
+- Com que frequência você vai à cidade?
+- Vou à cidade todo fim de semana.
+- Que hora é agora?
+- São 5 da noite.
+- Como vai você agora?
+- Estou bem, obrigado.

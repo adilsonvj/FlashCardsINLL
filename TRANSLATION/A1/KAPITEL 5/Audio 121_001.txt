@@ -1,0 +1,13 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho da França.
+- Você é francês?
+- Sim, eu sou francês.
+- E você?
+- Eu sou alemão.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Isso está correto ou incorreto?
+- Eu acho que está correto.
+- Ok, obrigado!

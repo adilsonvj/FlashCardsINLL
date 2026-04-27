@@ -1,0 +1,12 @@
+- Qual é o seu nome?
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Você é estudante?
+- Sim, eu sou estudante.
+- O que você estuda?
+- Eu estudo História.
+- E você?
+- Eu também sou estudante, eu estudo Matemática.

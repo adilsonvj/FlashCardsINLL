@@ -1,0 +1,22 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é casado?
+- Não, eu sou solteiro.
+- Você tem filhos?
+- Sim, eu tenho dois filhos.
+- Que idade têm seus filhos?
+- Um tem cinco anos, e o outro tem três anos.
+- Seus filhos vivem com você?
+- Sim, eles moram comigo.
+- E você?
+- Eu moro em um apartamento no centro.
+- Você tem mais algum familiar morando perto de você?
+- Sim, meu irmão também mora na cidade.
+- E que profissão você tem?
+- Sou professora em uma escola primária.
+- Isso é legal!
+- Obrigada!
+- E você?
+- Sou estudante.

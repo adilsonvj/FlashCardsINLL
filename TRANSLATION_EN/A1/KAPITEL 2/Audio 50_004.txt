@@ -1,0 +1,14 @@
+- What is your name?
+- My name is Sophie.
+- Where are you from?
+- I come from Luxembourg.
+- How old are you?
+- I am 25 years old.
+- When is your birthday?
+- My birthday is May 10th.
+- And you?
+- I am 30 years old.
+- What is your name?
+- My name is Marc.
+- Where are you from?
+- I come from Germany.

@@ -1,0 +1,7 @@
+- Qual é o seu nome?
+- Meu nome é Tiger.
+- De onde você vem?
+- Eu venho da Índia.
+- Você é suíço?
+- Não, eu sou indiano.
+- E você?

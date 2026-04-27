@@ -1,0 +1,24 @@
+- What is your name?
+- My name is Jean Dupont.
+- And you?
+- I come from France.
+- Are you Swiss?
+- No, I am French.
+- How old are you?
+- I am 35 years old.
+- What medications do you already have?
+- I take aspirin every day.
+- Do you have any allergies?
+- No, I have no allergies.
+- Do you have problems with your heart?
+- No, I have no heart problems.
+- Do you have fever or coughing?
+- Yes, I have a little fever and cough.
+- How long have you had these symptoms?
+- It has been three days.
+- Have you seen a doctor yet?
+- No, I went straight to the pharmacy.
+- Okay, I will give you a prescription for the medications.
+- Thank you very much.
+- Take care of yourself!
+- You too, thank you!

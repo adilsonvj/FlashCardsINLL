@@ -1,0 +1,2 @@
+- Liest a lauschtert den Text.
+- Erstellt eng Numm vun de Sproochen.

@@ -1,0 +1,14 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Quando é seu aniversário?
+- Meu aniversário é dia 10 de maio.
+- E você?
+- Eu tenho 30 anos.
+- Qual é o seu nome?
+- Meu nome é Marc.
+- De onde você vem?
+- Eu venho da Alemanha.

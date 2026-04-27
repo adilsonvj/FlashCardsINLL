@@ -1,0 +1,16 @@
+- Losing?
+- Yes, losing.
+- What is your name?
+- My name is Anna.
+- Where are you from?
+- I come from Luxembourg.
+- And you?
+- I am from Germany.
+- Are you Swiss?
+- No, I am not Swiss.
+- Are you French?
+- Yes, I am French.
+- How are you doing?
+- I am well, thank you.
+- And you?
+- Also well, thank you.

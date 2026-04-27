@@ -1,0 +1,10 @@
+- What is your name?
+- My name is Grock.
+- Where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- How are you?
+- I’m well, thank you.
+- And you?
+- Also well, thank you.

@@ -1,0 +1,12 @@
+- Kavini, Dr. Richard, bom dia?
+- Moin, meu nome é Faber.
+- Eu gostaria de conversar com a Madame da Costa.
+- Senhor, você ligou para o número errado.
+- Não existe nenhuma Madame da Costa.
+- Eu liguei para 21 34 65 20. Não é esse número?
+- Sim, esse é o nosso número, mas em nosso gabinete não trabalha nenhuma Madame da Costa.
+- Oh, então preciso verificar de novo.
+- Desculpe ter incomodado.
+- Não há problema.
+- Mas...
+- Adeus.

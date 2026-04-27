@@ -1,0 +1,8 @@
+- Qual é o seu nome?
+- Meu nome é Rank.
+- De onde você vem?
+- Eu venho da Alemanha.
+- Você é suíço?
+- Não, eu sou alemão.
+- E você?
+- Eu sou luxemburguês.

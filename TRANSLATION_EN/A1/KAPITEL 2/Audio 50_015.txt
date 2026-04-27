@@ -1,0 +1,16 @@
+- Hello?
+- My name is Anna.
+- And you?
+- I come from Luxembourg.
+- How old are you?
+- I am 25 years old.
+- Are you Swiss?
+- No, I am Luxembourger.
+- And you?
+- My name is Tom.
+- And you from where?
+- I come from Germany.
+- How old are you?
+- I am 30 years old.
+- Are you French?
+- No, I am German.

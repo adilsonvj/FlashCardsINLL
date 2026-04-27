@@ -1,0 +1,22 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- Are you married?
+- No, I am single.
+- Do you have children?
+- Yes, I have two children.
+- How old are your children?
+- One is five years old, and the other is three years old.
+- Do your children live with you?
+- Yes, they live with me.
+- And you?
+- I live in an apartment in the center.
+- Do you have any other family nearby?
+- Yes, my brother also lives in the city.
+- And what work do you do?
+- I am a teacher at a primary school.
+- That’s great!
+- Thank you!
+- And you?
+- I am a student.

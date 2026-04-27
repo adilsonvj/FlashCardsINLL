@@ -1,0 +1,19 @@
+- Olá de fim de semana com ao cinema?
+- Sim, o que você quer assistir?
+- O novo James Bond.
+- Bom, quando você quer ir?
+- Uma sexta-feira à noite.
+- Uma sexta-feira?
+- Isso é triste, numa sexta-feira à noite eu infelizmente não tenho tempo.
+- Eu vou comer com colegas.
+- Você quer então uma noite de sábado?
+- Sim, isso funciona.
+- Ótimo, onde o filme passa?
+- No Utopolis.
+- A que horas?
+- Às oito e meia.
+- Vamos juntos?
+- Eu chego lá às sete da noite.
+- E então, até sábado.
+- Sim, até lá.
+- Tchau.

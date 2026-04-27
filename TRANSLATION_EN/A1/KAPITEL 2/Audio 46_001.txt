@@ -1,0 +1,16 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- How old are you?
+- I am 25 years old.
+- How long have you lived here?
+- I have lived here for five years.
+- And you?
+- I am 30 years old.
+- What is your name?
+- My name is Marc.
+- And where are you from?
+- I come from France.
+- How long have you lived here?
+- I have lived here for three years.

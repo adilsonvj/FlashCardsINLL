@@ -1,0 +1,16 @@
+- Thanks?
+- Yes, thanks.
+- What is your name?
+- My name is Jean.
+- Where are you from?
+- I come from France.
+- And you?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- Are you French?
+- Yes, I am French.
+- How old are you?
+- I am 25 years old.
+- And how old are you?
+- I am 30 years old.

@@ -1,0 +1,10 @@
+- What is your name?
+- My name is September.
+- Where are you from?
+- I come from Luxembourg.
+- And you?
+- I come from Germany.
+- Are you Swiss?
+- No, I am German.
+- Are you French?
+- No, I am Luxembourgish.

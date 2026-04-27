@@ -1,0 +1,22 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- E quantos anos você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Esch.
+- O que você faz?
+- Eu sou estudante.
+- E você?
+- Eu também sou estudante.
+- Você tem irmãos?
+- Sim, eu tenho uma irmã.
+- Como ela se chama?
+- Ela se chama Marie.
+- Você tem animais de estimação?
+- Sim, eu tenho um gato.
+- Como se chama o gato?
+- O gato se chama Mimi.
+- Bom, muito obrigado!
+- De nada!

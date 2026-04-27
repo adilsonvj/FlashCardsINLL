@@ -1,0 +1,16 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Há quanto tempo você mora aqui?
+- Eu moro aqui há cinco anos.
+- E você?
+- Eu tenho 30 anos.
+- Qual é o seu nome?
+- Meu nome é Marc.
+- De onde você vem?
+- Eu venho da França.
+- Há quanto tempo você mora aqui?
+- Eu moro aqui há três anos.

@@ -1,0 +1,20 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- And you?
+- I am from Germany.
+- How old are you?
+- I am 25 years old.
+- And how long have you lived here?
+- I have lived here for five years.
+- What do you do professionally?
+- I am a teacher.
+- And what do you like to do in your spare time?
+- I like reading and playing tennis.
+- That sounds great!
+- Yes, and you?
+- I enjoy listening to music and cooking.
+- Great!
+- Thank you.
+- You’re welcome.

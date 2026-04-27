@@ -1,0 +1,5 @@
+- Hello, I am Madame Meier.
+- What is your name?
+- My name is Paul Virion.
+- Pleased to meet me.
+- Me too.

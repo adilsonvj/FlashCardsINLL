@@ -1,0 +1,3 @@
+- Olá Produtos do supermercado.
+- Quantos itens há na propaganda?
+- Ouça e anote o preço.

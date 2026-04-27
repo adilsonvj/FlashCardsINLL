@@ -1,0 +1,16 @@
+- Qual é o seu nome?
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- E você?
+- Meu nome é Tom.
+- De onde você vem?
+- Eu venho da Alemanha.
+- Quantos anos você tem?
+- Eu tenho 30 anos.
+- Você é francês?
+- Não, eu sou alemão.

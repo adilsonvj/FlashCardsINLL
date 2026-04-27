@@ -1,0 +1,2 @@
+- Passengers for flight LG1234 to Berlin are asked to come to Gate Five.
+- Boarding starts in 5 minutes.

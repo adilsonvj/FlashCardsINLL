@@ -1,0 +1,18 @@
+- Hello restaurant, at Jeanette, bonjour!
+- Hello!
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- How many people are you?
+- We are four people.
+- Do you want to make a reservation?
+- Yes, please.
+- For when?
+- For Saturday evening.
+- At 7 PM?
+- Yes, that's good.
+- Your name again?
+- Sophie Müller.
+- Thank you, Sophie. See you Saturday!
+- Thanks, see you then!

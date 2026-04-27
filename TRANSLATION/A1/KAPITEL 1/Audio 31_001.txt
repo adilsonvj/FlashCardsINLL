@@ -1,0 +1,2 @@
+- Leia todos os nomes dos lugares.
+- Obtenha o mapa da Suíça, por favor.

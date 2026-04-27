@@ -1,0 +1,13 @@
+- Olá. Cabine Dr. Vampach, bom dia.
+- Moin, posso falar com o doutor Vampach?
+- Quem está no aparelho, quem fala?
+- Oh, desculpe, meu nome é Becker, Elisabeth Becker.
+- Senhora Becker, o doutor tem o paciente no momento.
+- Posso ajudá-la de alguma forma?
+- Não, quero falar pessoalmente com o doutor.
+- Quando posso chamar de novo?
+- Tente novamente ao meio-dia.
+- Você terá menos pacientes ao falar com o doutor.
+- Obrigada, faço isso.
+- Adeus.
+- Mas, senhora...

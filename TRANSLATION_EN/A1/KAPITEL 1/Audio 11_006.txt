@@ -1,0 +1,7 @@
+- What is your name?
+- My name is E.
+- Where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?

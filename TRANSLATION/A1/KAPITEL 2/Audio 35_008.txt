@@ -1,0 +1,210 @@
+- Olá
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho da Alemanha.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Quantas irmãs você tem?
+- Eu tenho duas irmãs.
+- Quantos irmãos você tem?
+- Eu tenho um irmão.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- O que você faz profissionalmente?
+- Eu sou professora.
+- Você tem hobbies?
+- Sim, eu toco guitarra.
+- E você?
+- Eu gosto de ler livros.
+- Como está o tempo hoje?
+- Está frio e o tempo está nublado.
+- Que horas são?
+- São duas horas da tarde.
+- há quanto tempo você aprende luxemburguês?
+- Eu estou aprendendo luxemburguês há um ano.
+- Qual é a sua comida favorita?
+- Minha comida favorita é espaguete.
+- Você tem animais de estimação?
+- Sim, eu tenho uma gata.
+- Como se chama a sua gata?
+- Ela se chama Mimi.
+- Quantos idiomas você fala?
+- Eu falo três idiomas.
+- Como se chama o seu parceiro?
+- Meu parceiro se chama Tom.
+- há quanto tempo vocês estão juntos?
+- Estamos juntos há cinco anos.
+- Com que frequência você vai ao cinema?
+- Vou ao cinema todo mês.
+- Qual é o seu filme favorito?
+- Meu filme favorito é uma comédia.
+- Com que frequência você vai à academia?
+- Vou à academia três vezes por semana.
+- O que você faz no fim de semana?
+- No fim de semana eu visito minha família.
+- Quantas horas você trabalha por dia?
+- Eu trabalho oito horas por dia.
+- Quanto tempo dura sua viagem para o trabalho?
+- Minha viagem dura cerca de 30 minutos.
+- Com que frequência você sai de férias?
+- Eu saio de férias todo ano.
+- Qual lugar você quer visitar no próximo ano?
+- Eu quero visitar a Itália.
+- Como se chama o seu melhor amigo?
+- Meu melhor amigo se chama Marc.
+- Com que frequência você encontra seus amigos?
+- Eu encontro meus amigos toda semana.
+- há quanto tempo você aprende luxemburguês?
+- Eu aprendo luxemburguês há um ano.
+- Como se chama o seu professor?
+- Meu professor se chama Herr Müller.
+- Quantos filhos você tem?
+- Eu tenho dois filhos.
+- Quantos anos têm seus filhos?
+- Eles têm cinco e sete anos.
+- Como se chama o seu marido?
+- Meu marido se chama Jean.
+- Há quanto tempo vocês são casados?
+- Somos casados há três anos.
+- Quantas horas você dorme por noite?
+- Eu durmo sete horas por noite.
+- Com que frequência você vai à biblioteca?
+- Vou à biblioteca todo mês.
+- Como se chama o seu livro favorito?
+- Meu livro favorito se chama "D'Geschicht vum Luxemburgo".
+- Quantos filhos você quer?
+- Eu quero três filhos.
+- Como se chama o seu esporte favorito?
+- Meu esporte favorito é futebol.
+- Com que frequência você joga futebol?
+- Eu jogo futebol todo fim de semana.
+- Como se chama o seu cantor favorito?
+- Meu cantor favorito é Elton John.
+- Com que frequência você ouve música?
+- Eu ouço música todos os dias.
+- Como se chama o seu filme favorito?
+- Meu filme favorito é "The Lion King".
+- Com que frequência você vai ao teatro?
+- Vou ao teatro todo mês.
+- Como se chama o seu restaurante favorito?
+- Meu restaurante favorito é "La Table".
+- Com que frequência você come lá?
+- Eu como lá todo mês.
+- Como se chama o seu bolo favorito?
+- Meu bolo favorito é chocolate.
+- Com que frequência você cozinha em casa?
+- Eu cozinho em casa todo dia.
+- Como se chama a sua bebida favorita?
+- Minha bebida favorita é água.
+- Com que frequência você bebe água?
+- Eu bebo água todos os dias.
+- Como se chama o seu lugar favorito em Luxemburgo?
+- Meu lugar favorito é o parque.
+- Com que frequência você vai ao parque?
+- Vou ao parque todo fim de semana.
+- Como se chama o seu dia de semana favorito?
+- Meu dia favorito é sábado.
+- Com que frequência você vai às lojas?
+- Vou à loja toda semana.
+- Como se chama o seu dia da semana favorito?
+- Meu dia da semana favorito é manhã.
+- Com que frequência você vai à cozinha?
+- Vou à cozinha todos os dias.
+- Como se chama a sua cozinha favorita?
+- Minha cozinha favorita é a italiana.
+- Com que frequência você vai à padaria?
+- Vou à padaria todos os dias.
+- Como se chama o seu padeiro favorito?
+- Meu padeiro favorito se chama Pierre.
+- Com que frequência você vai à farmácia?
+- Vou à farmácia todo mês.
+- Como se chama o seu medicamento favorito?
+- Meu medicamento favorito se chama "Pharma".
+- Com que frequência você vai ao banco?
+- Vou ao banco todo mês.
+- Como se chama o seu banco favorito?
+- Meu banco favorito é "Banque de Luxembourg".
+- Com que frequência você vai ao correio?
+- Vou ao correio toda semana.
+- Como se chama o seu correio favorito?
+- Meu correio favorito se chama "Post Luxembourg".
+- Com que frequência você vai à biblioteca?
+- Vou à biblioteca todo mês.
+- Como se chama a sua biblioteca favorita?
+- Minha biblioteca favorita se chama "Centre National de Littérature".
+- Com que frequência você vai ao museu?
+- Vou ao museu todo ano.
+- Como se chama o seu museu favorito?
+- Meu museu favorito se chama "Musée d'Art Moderne".
+- Com que frequência você vai ao cinema?
+- Vou ao cinema todo mês.
+- Como se chama o seu cinema favorito?
+- Meu cinema favorito se chama "Cinémathèque".
+- Com que frequência você vai ao teatro?
+- Vou ao teatro todo mês.
+- Como se chama o seu teatro favorito?
+- Meu teatro favorito se chama "Théâtre National".
+- Com que frequência você vai ao concerto?
+- Vou ao concerto todo ano.
+- Como se chama o seu concerto favorito?
+- Meu concerto favorito se chama "Rock am Ring".
+- Com que frequência você vai às festas?
+- Vou às festas todo ano.
+- Como se chama a sua festa favorita?
+- Minha festa favorita se chama "Schueberfouer".
+- Com que frequência você vai de férias?
+- Vou de férias todo ano.
+- Como se chama a sua férias favoritas?
+- Minhas férias favoritas são no mar.
+- Com que frequência você vai à montanha?
+- Vou à montanha todo verão.
+- Como se chama a sua montanha favorita?
+- Minha montanha favorita se chama "Müllerthal".
+- Com que frequência você vai à praia?
+- Vou à praia todo verão.
+- Como se chama a sua praia favorita?
+- Minha praia favorita se chama "Mier".
+- Com que frequência você vai ao parque?
+- Vou ao parque todo fim de semana.
+- Como se chama o seu parque favorito?
+- Meu parque favorito se chama "Parc de la Ville".
+- Com que frequência você vai à biblioteca?
+- Vou à biblioteca todo mês.
+- Como se chama a sua biblioteca favorita?
+- Minha biblioteca favorita se chama "Centre National de Littérature".
+- Com que frequência você vai ao museu?
+- Vou ao museu todo ano.
+- Como se chama o seu museu favorito?
+- Meu museu favorito se chama "Musée d'Art Moderne".
+- Com que frequência você vai ao cinema?
+- Vou ao cinema todo mês.
+- Como se chama o seu cinema favorito?
+- Meu cinema favorito se chama "Cinémathèque".
+- Com que frequência você vai ao teatro?
+- Vou ao teatro todo mês.
+- Como se chama o seu teatro favorito?
+- Meu teatro favorito se chama "Théâtre National".
+- Com que frequência você vai ao concerto?
+- Vou ao concerto todo ano.
+- Como se chama o seu concerto favorito?
+- Meu concerto favorito se chama "Rock am Ring".
+- Com que frequência você vai às festas?
+- Vou às festas todo ano.
+- Como se chama a sua festa favorita?
+- Minha festa favorita se chama "Schueberfouer".
+- Com que frequência você vai de férias?
+- Vou de férias todo ano.
+- Como se chama a sua férias favoritas?
+- Minhas férias favoritas são no mar.
+- Com que frequência você vai à montanha?
+- Vou à montanha todo verão.
+- Como se chama a sua montanha favorita?
+- Minha montanha favorita se chama "Müllerthal".
+- Com que frequência você vai à praia?
+- Vou à praia todo verão.
+- Como se chama a sua praia favorita?
+- Minha praia favorita se chama "Mier".
+- Com que frequência você vai ao parque?
+- Vou ao parque todo fim de semana.
+- Como se chama o seu parque favorito?
+- Meu parque favorito se chama "Parc de la Ville".

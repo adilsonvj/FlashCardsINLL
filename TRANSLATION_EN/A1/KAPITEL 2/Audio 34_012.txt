@@ -1,0 +1,16 @@
+- What is your name?
+- My name is Anna.
+- And where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?
+- I am also Luxembourgish.
+- How old are you?
+- I am 25 years old.
+- And what is your occupation?
+- I am a teacher.
+- And what do you teach?
+- I teach French.
+- That's cool!
+- Yes, I find it very interesting.

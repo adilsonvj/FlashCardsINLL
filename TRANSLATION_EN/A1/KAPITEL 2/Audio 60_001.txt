@@ -1,0 +1,25 @@
+- Hello Madam, how can I help you?
+- Good morning, I am planning and I wanted to register me here in the city.
+- What is your name?
+- Sandy Vinandi.
+- Your birth date, please?
+- I was born on January 15, 1974.
+- What is your new address?
+- 20, Rue du Parc, 15, 24, here in the city.
+- Is there another person living at the address?
+- Yes, my husband, Carlos Pinto, and my two children.
+- Then I also need the birth date of your children.
+- My girl Judith was born on December 22, 2009.
+- And my boy Oskar, on August 30, 2011.
+- Yes, and at the moment?
+- Here it is, it’s done.
+- You are now officially a resident of the city of Luxembourg.
+- To complete your file, I also need a phone number.
+- The fixed landline or mobile number?
+- As you wish, ma’am.
+- My mobile number is 6 41 12 56 32.
+- And an email address?
+- SandyWin@ptt.lu
+- Good, that’s all.
+- Thank you, Ava.
+- Ava.

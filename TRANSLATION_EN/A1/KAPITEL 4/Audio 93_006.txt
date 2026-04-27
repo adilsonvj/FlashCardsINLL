@@ -1,0 +1,31 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- And you?
+- I am from Germany.
+- Are you Swiss?
+- No, I am French.
+- How are you?
+- I am well, thank you.
+- And you?
+- Also well, thank you.
+- Where do you live?
+- I live in Esch.
+- And where do you live?
+- I live in Luxembourg City.
+- What do you do?
+- I am a student.
+- And what do you do?
+- I work as a teacher.
+- Do you have siblings?
+- Yes, I have a sister.
+- And you?
+- I have two brothers.
+- How old are you?
+- I am 25 years old.
+- And you?
+- I am 30 years old.
+- Would you like a coffee?
+- Yes, please.
+- Thank you very much!

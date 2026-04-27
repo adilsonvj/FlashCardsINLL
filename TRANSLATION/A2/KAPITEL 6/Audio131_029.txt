@@ -1,0 +1,104 @@
+- Olá?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Esch.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- E você?
+- Eu sou alemão.
+- Como vai você?
+- Vai bem, obrigado.
+- Há quanto tempo você aprende luxemburguês?
+- Eu estudo há um mês.
+- O que você faz profissionalmente?
+- Eu sou professora.
+- Você tem filhos?
+- Sim, eu tenho dois filhos.
+- Como se chamam seus filhos?
+- Eles se chamam Tom e Léa.
+- Onde você trabalha?
+- Eu trabalho em uma escola em Luxemburgo-Ville.
+- Qual é o seu hobby favorito?
+- Meu hobby favorito é ouvir música.
+- Você tem família?
+- Sim, sou casada.
+- Há quanto tempo você está casada?
+- Estou casada há cinco anos.
+- Quantos idiomas você fala?
+- Eu falo três idiomas: luxemburguês, alemão e francês.
+- Por quanto tempo você fica ainda em Luxemburgo?
+- Ainda fico um mês aqui.
+- Como está o tempo hoje?
+- Está ensolarado e quente.
+- O que você gosta de comer?
+- Eu gosto de comer macarrão.
+- Você tem um lugar favorito em Luxemburgo?
+- Sim, eu gosto de ir ao parque.
+- Com que frequência você vai ao parque?
+- Vou ao parque todos os dias.
+- O que você faz no fim de semana?
+- No fim de semana visito meus amigos.
+- Como se chama seu melhor amigo?
+- Meu melhor amigo se chama Marc.
+- há quanto tempo você o conhece?
+- Eu o conheço há cinco anos.
+- Com que frequência você fala com ele?
+- Nós conversamos todos os dias.
+- Você tem um animal de estimação?
+- Sim, eu tenho uma gata.
+- Como se chama sua gata?
+- Ela se chama Mimi.
+- De que cor é sua gata?
+- Ela é preta e branca.
+- Quantas pessoas há na sua família?
+- Somos cinco na família.
+- Como se chamam seus pais?
+- Meu pai se chama Jean e minha mãe se chama Marie.
+- Há quanto tempo você aprende luxemburguês?
+- Eu estudo há um mês.
+- Como você acha a língua?
+- Eu a acho bonita e difícil.
+- Com que frequência você pratica luxemburguês?
+- Pratico todos os dias.
+- Quanto tempo dura seu curso?
+- Meu curso dura duas horas.
+- Quantas pessoas há na sua turma?
+- Somos dez pessoas na turma.
+- Como se chama sua professora?
+- Minha professora se chama Madame Müller.
+- Com que frequência você vai à escola?
+- Vou à escola cinco vezes por semana.
+- Quanto tempo dura sua viagem para a escola?
+- Minha viagem dura 20 minutos.
+- Como você vai para a escola?
+- Vou de ônibus para a escola.
+- Ainda fica em Luxemburgo por mais tempo?
+- Ainda fico um mês aqui.
+- Como você acha a cidade?
+- Eu acho a cidade bonita e animada.
+- O que você gosta de fazer no tempo livre?
+- Eu gosto de ler livros.
+- Você tem um livro favorito?
+- Sim, meu livro favorito é “D’Rees”.
+- Como se chama seu filme favorito?
+- Meu filme favorito se chama “D’Liewen”.
+- Com que frequência você vai ao cinema?
+- Vou ao cinema todos os meses.
+- Como se chama seu cantor favorito?
+- Meu cantor favorito se chama Tom.
+- Você tem um esporte favorito?
+- Sim, gosto de jogar tênis.
+- Com que frequência você joga tênis?
+- Jogo tênis duas vezes por semana.
+- Há quanto tempo você está aprendendo luxemburguês?
+- Eu estudo há um mês.
+- Como você acha a língua?
+- Eu a acho bonita e difícil.
+- Com que frequência você pratica luxemburguês?
+- Pratico todos os dias.
+- Muito obrigada!
+- De nada!

@@ -1,0 +1,16 @@
+- What is your name?
+- My name is Sophie.
+- Where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- And you?
+- My name is Marc.
+- Where are you from?
+- I come from Germany.
+- Are you French?
+- No, I am German.
+- How are you?
+- I am good, thank you.
+- And you?
+- Also good, thank you.

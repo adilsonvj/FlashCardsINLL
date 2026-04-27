@@ -1,0 +1,24 @@
+- Olá!
+- Olá!
+- Posso ajudar você?
+- Sim, eu quero emprestar três livros.
+- Sim, um cartão quando eu quiser.
+- Cartão?
+- Não tenho cartão.
+- Hoje é para você aí.
+- Então, você precisa de um cartão.
+- Você pode preencher um formulário ou eu faço direto aqui no computador.
+- Eu tenho tempo livre agora.
+- Isso é ótimo.
+- Meu nome é Nadine Mayer.
+- Um endereço quando eu quiser.
+- 21 Route du Luxembourg, L23, 13 Betelbusch.
+- Você quer ser contactado por e-mail, por SMS ou por telefone?
+- Por e-mail.
+- Isso é Nadine.Mayer@ptt.lu.
+- Você quer ser contatado em luxemburguês?
+- Sim.
+- Ótimo, é tudo.
+- Aqui está um cartão e aqui estão os livros.
+- Obrigado, até a próxima.
+- Adeus.

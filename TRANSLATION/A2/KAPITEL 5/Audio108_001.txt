@@ -1,0 +1,16 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- E você?
+- Eu sou o Marc.
+- Você é suíço?
+- Não, eu sou alemão.
+- Você é francês?
+- Sim, eu venho da França.
+- Como se chama você?
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho da Espanha.
+- E você?
+- Eu sou italiano.

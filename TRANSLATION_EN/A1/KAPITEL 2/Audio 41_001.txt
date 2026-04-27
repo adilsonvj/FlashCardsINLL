@@ -1,0 +1,19 @@
+- Hello, Rosennimo.
+- Good morning, my name is Faber.
+- I need the number of a hotel in Spain.
+- Where exactly in Spain?
+- In Huelva.
+- Spell out the number when I say it?
+- H-U-E-L-V-A.
+- What is the name of the hotel?
+- Hotel La Playa.
+- One moment, spell it when I say it.
+- Then the digits are 0034 959 45 54 12.
+- Could you repeat that again when I say it?
+- Yes, of course.
+- For all of Spain the code is 0034.
+- Then for all of Huelva 959.
+- And the name of the hotel is 45 54 12.
+- Thank you very much.
+- You’re welcome.
+- Goodbye.

@@ -1,0 +1,42 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- E você?
+- Eu sou da Alemanha.
+- Você é suíço?
+- Não, eu sou francês.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Como vai você?
+- Estou bem, obrigado.
+- O que você faz?
+- Eu sou estudante.
+- Onde mora você?
+- Eu moro em Luxembourg.
+- Você tem uma família?
+- Sim, eu tenho uma família pequena.
+- Você tem filhos?
+- Não, eu não tenho filhos.
+- Há quanto tempo você está aqui?
+- Eu estou aqui há um ano.
+- Como você acha a cidade?
+- Eu acho a cidade bonita.
+- Qual é o seu lugar favorito?
+- Meu lugar favorito é o parque.
+- O que você gosta de fazer no tempo livre?
+- Eu gosto de ler livros.
+- Você tem um mapa?
+- Sim, eu tenho um mapa.
+- Que mapa é esse?
+- É um mapa-mundi.
+- Por que você precisa do mapa?
+- Para usar o transporte público.
+- Quanto custa o mapa?
+- O mapa custa 30 euros por mês.
+- Por quanto tempo vale o mapa?
+- O mapa vale por um mês.
+- Você pode me ajudar?
+- Sim, claro.
+- Muito obrigado!
+- De nada!

@@ -1,0 +1,2 @@
+- Read all the names of the places.
+- And check the Switzerland map now.

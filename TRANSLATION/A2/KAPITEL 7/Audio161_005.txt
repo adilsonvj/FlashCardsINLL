@@ -1,0 +1,26 @@
+- Qual é o seu nome?
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- E você?
+- Eu sou da Alemanha.
+- Você é suíço?
+- Não, eu não sou suíço.
+- Você é francês?
+- Sim, eu sou francês.
+- Como você está?
+- Estou bem, obrigado.
+- E como você está?
+- Também bem, obrigado.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- E onde você mora?
+- Eu moro em Berlim.
+- O que você faz?
+- Eu sou estudante.
+- E o que você faz?
+- Eu trabalho como professora.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- E você?
+- Eu tenho 30 anos.

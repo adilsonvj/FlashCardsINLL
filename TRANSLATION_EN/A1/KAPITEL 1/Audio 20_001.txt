@@ -1,0 +1,7 @@
+- What is your name, please?
+- Dimitri Kalinin.
+- Are you from Russia?
+- No, I am not from Russia.
+- I come from Greece, from Athens.
+- And you?
+- I come from Luxembourg, from Dudelange.

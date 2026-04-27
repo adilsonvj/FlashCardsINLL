@@ -1,0 +1,86 @@
+- Olá
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- E você?
+- Eu sou alemã.
+- Como vai você?
+- Vai tudo bem, obrigado.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- O que você faz?
+- Eu sou estudante.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- Você tem irmãos?
+- Sim, eu tenho uma irmã.
+- Qual é a sua cor favorita?
+- Minha cor favorita é azul.
+- Você tem uma amiga?
+- Sim, eu tenho uma boa amiga.
+- O que você gosta de comer?
+- Eu gosto de comer macarrão.
+- O que você bebe?
+- Eu gosto de beber água.
+- Há quanto tempo você aprende luxemburguês?
+- Eu aprendo luxemburguês há um ano.
+- com que frequência você fala luxemburguês?
+- Eu falo luxemburguês todos os dias.
+- O que você faz no tempo livre?
+- Eu gosto de ler livros.
+- Você tem animais de estimação?
+- Sim, eu tenho um gato.
+- Como se chama seu gato?
+- Meu gato se chama Mimi.
+- Qual é o seu esporte favorito?
+- Meu esporte favorito é natação.
+- Como está o tempo hoje?
+- Hoje está ensolarado.
+- Quanto tempo leva para chegar até você?
+- Leva cerca de 20 minutos.
+- Quantos idiomas você fala?
+- Eu falo três idiomas.
+- Qual é o seu filme favorito?
+- Meu filme favorito é uma comédia.
+- Com que frequência você vai ao cinema?
+- Vou ao cinema todo mês.
+- Quem é o seu músico favorito?
+- Meu músico favorito é Ed Sheeran.
+- Você tem família?
+- Sim, eu tenho uma família pequena.
+- Quantas pessoas há na sua família?
+- Somos quatro pessoas.
+- Como se chamam seus pais?
+- Meu pai se chama Jean, minha mãe se chama Marie.
+- Por quanto tempo você fica em Luxemburgo?
+- Eu fico por três meses.
+- Com que frequência você viaja?
+- Eu viajo todo ano.
+- Onde você gosta de passar férias?
+- Eu gosto de ir às montanhas.
+- Qual é o seu prato favorito?
+- Meu prato favorito é o bolo.
+- Com que frequência você vai ao restaurante?
+- Vou ao restaurante toda semana.
+- O que você faz no fim de semana?
+- No fim de semana visito amigos.
+- Quanto tempo dura seu fim de semana?
+- Meu fim de semana dura dois dias.
+- Quantas horas de trabalho você tem?
+- Eu tenho muito trabalho.
+- Quanto tempo você tem para lazer?
+- Eu tenho muito tempo para lazer.
+- Com que frequência você vai à biblioteca?
+- Vou à biblioteca toda semana.
+- O que você gosta de ler?
+- Eu gosto de ler romances.
+- Qual é o seu romance favorito?
+- Meu romance favorito é "O Mundo do Luxemburguês".
+- Com que frequência você fala com seus amigos?
+- Eu falo com meus amigos todos os dias.
+- Dura quanto tempo até chegar aí?
+- Dura cerca de 15 minutos.
+- Quanto tempo você passa com sua família?
+- Eu passo muito tempo com minha família.

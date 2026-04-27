@@ -1,0 +1,14 @@
+- What is your name?
+- My name is Kréistoun.
+- And where are you from?
+- I come from Luxembourg.
+- How long have you lived here?
+- I have lived here for five years.
+- Do you have a large family?
+- Yes, I have a large family.
+- How many brothers and sisters do you have?
+- I have two brothers and four sisters.
+- Which family member do you speak to most lovingly?
+- I speak most lovingly with my mother.
+- And you?
+- I speak most lovingly with my father.

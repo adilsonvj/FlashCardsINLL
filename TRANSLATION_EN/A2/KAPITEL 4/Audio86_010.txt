@@ -1,0 +1,150 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am not Swiss.
+- Are you French?
+- No, I am not French.
+- And you?
+- I am German.
+- How are you?
+- I am well, thank you.
+- How old are you?
+- I am 25 years old.
+- Where do you live?
+- I live in Luxembourg.
+- What do you do?
+- I am a student.
+- What do you study?
+- I study history.
+- Do you have siblings?
+- Yes, I have a sister.
+- Do you have pets?
+- No, I have no pets.
+- What is your favorite color?
+- My favorite color is blue.
+- What do you like to eat?
+- I like to eat noodles.
+- What do you like to drink?
+- I like to drink water.
+- How long have you been learning Luxembourgish?
+- I have been learning Luxembourgish for a year.
+- How often do you speak Luxembourgish?
+- I speak Luxembourgish every day.
+- What do you do in your free time?
+- I like to read books.
+- How is the weather today?
+- Today it is sunny.
+- How is the city?
+- The city is beautiful.
+- How is life in Luxembourg?
+- Life is great.
+- How long will you stay here?
+- I will stay here for a week.
+- What languages do you speak?
+- I speak German and English.
+- What is your friend's name?
+- My friend's name is Marc.
+- How old is your friend?
+- He is 27 years old.
+- What does your friend do?
+- He is an engineer.
+- How often do you see your friend?
+- We see each other every week.
+- How do you feel about Luxembourgish food?
+- I think it’s very good.
+- Which place do you like most in Luxembourg?
+- I like the park the most.
+- How long does it take to go to work?
+- It takes about 30 minutes.
+- What music do you like to listen to?
+- I like to listen to pop music.
+- How often do you go to the cinema?
+- I go to the cinema every month.
+- What color is your car?
+- My car is red.
+- How many languages do you learn?
+- I am learning three languages.
+- What is your teacher’s name?
+- My teacher’s name is Mr. Müller.
+- How long is the course?
+- The course lasts two hours.
+- What time is it?
+- It is 10 o'clock.
+- How are you today?
+- I am well, thank you.
+- What is your favorite movie?
+- My favorite movie is “Amélie.”
+- Which place would you like to visit?
+- I want to visit Paris.
+- How long will you stay there?
+- I will stay there for five days.
+- What kind of food do you like?
+- I like pizza.
+- How often do you go to the library?
+- I go to the library every week.
+- Which sport do you play?
+- I play football.
+- How long have you been learning?
+- I have been learning for a year.
+- Which language is difficult?
+- Luxembourgish is difficult.
+- Which language is easy?
+- English is easy.
+- What is your favorite book?
+- My favorite book is “Harry Potter.”
+- Which place is your favorite?
+- My favorite place is the beach.
+- How often do you go to the city?
+- I go to the city every weekend.
+- What time is it now?
+- It is 3 o'clock in the afternoon.
+- How are you now?
+- I am fine, thank you.
+- What is your favorite athlete’s name?
+- My favorite athlete is Roger Federer.
+- Which language do you speak most lovingly?
+- I speak German most lovingly.
+- How long does it take to go to school?
+- It takes 15 minutes.
+- Which place is interesting?
+- The music is interesting.
+- How often do you go to the cinema?
+- I go to the cinema every month.
+- What color is your sweater?
+- My sweater is green.
+- How many people are in your family?
+- There are five people in my family.
+- What is your dad’s name?
+- My dad’s name is Jean.
+- What is your mother’s name?
+- My mother’s name is Marie.
+- How often do you go to the store?
+- I go to the store every day.
+- Which place is beautiful?
+- The park is beautiful.
+- How long does it take to go to work?
+- It takes 20 minutes.
+- What music do you like to hear?
+- I like to hear jazz.
+- How often do you go to the library?
+- I go to the library every week.
+- What sport do you do?
+- I swim.
+- How long have you been learning?
+- I have been learning for half a year.
+- Which language is difficult?
+- French is difficult.
+- Which language is easy?
+- German is easy.
+- What is your favorite movie?
+- My favorite movie is “Inception.”
+- Which place is your favorite place?
+- My favorite place is the mountains.
+- How often do you go to the city?
+- I go to the city every weekend.
+- What time is it now?
+- It is 5 o'clock at night.
+- How are you now?
+- I am well, thank you.

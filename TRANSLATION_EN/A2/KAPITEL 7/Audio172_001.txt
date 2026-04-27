@@ -1,0 +1,9 @@
+- Hello, is your name Schmied?
+- Jean, are you there?
+- No, there isn’t Schmied here.
+- Do you have the 686 45 99 76 number?
+- No, Sir, you have the 686 45 86 76.
+- Oh, sorry, I mistyped.
+- That’s no problem.
+- Goodbye, Sir.
+- Goodbye.

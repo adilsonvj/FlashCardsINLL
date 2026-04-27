@@ -1,0 +1,1 @@
+- Apague a lista sem ler o texto.

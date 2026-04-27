@@ -1,0 +1,3 @@
+- Lauschtert den Dialog.
+- Ass dat richteg oder falsch?
+- Zeichnt un.

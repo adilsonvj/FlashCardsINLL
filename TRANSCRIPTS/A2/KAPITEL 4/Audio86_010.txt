@@ -1,0 +1,150 @@
+- Wéi heescht Dir?
+- Mäi Numm ass Sophie.
+- Vu wou kommt Dir?
+- Ech kommen aus Lëtzebuerg.
+- Sidd Dir Schwäizer?
+- Nee, ech sinn net Schwäizer.
+- Sidd Dir Fransous?
+- Nee, ech sinn net Fransous.
+- An Dir?
+- Ech sinn Däitsch.
+- Wéi geet et Iech?
+- Et geet mir gutt, merci.
+- Wéi al sidd Dir?
+- Ech sinn 25 Joer al.
+- Wou wunnt Dir?
+- Ech wunnt zu Lëtzebuerg.
+- Wat maacht Dir?
+- Ech sinn Student.
+- Wat studéiert Dir?
+- Ech studéieren Geschicht.
+- Hutt Dir Geschwëster?
+- Jo, ech hunn eng Schwëster.
+- Hutt Dir Hausdéieren?
+- Nee, ech hunn keng Hausdéieren.
+- Wat ass Äre Liiblingsfaarf?
+- Mäi Liiblingsfaarf ass blo.
+- Wat iesst Dir gär?
+- Ech iessen gär Nuddelen.
+- Wat drénkt Dir gär?
+- Ech drénken gär Waasser.
+- Wéi laang léiert Dir schonn Lëtzebuergesch?
+- Ech léieren zënter engem Joer Lëtzebuergesch.
+- Wéi oft schwätzt Dir Lëtzebuergesch?
+- Ech schwätzen all Dag Lëtzebuergesch.
+- Wat maacht Dir an Ärer Fräizäit?
+- Ech liesen gär Bicher.
+- Wéi ass d’Wieder haut?
+- Haut ass et sonneg.
+- Wéi ass d’Stad?
+- D’Stad ass schéin.
+- Wéi ass d’Liewen zu Lëtzebuerg?
+- D’Liewen ass flott.
+- Wéi laang bleift Dir hei?
+- Ech bleiwe fir eng Woch hei.
+- Wéi eng Sproochen schwätzt Dir?
+- Ech schwätzen Däitsch an Englesch.
+- Wéi heescht Äre Frënd?
+- Mäi Frënd heescht Marc.
+- Wéi al ass Äre Frënd?
+- Hien ass 27 Joer al.
+- Wat maacht Äre Frënd?
+- Hien ass Ingenieur.
+- Wéi oft gesitt Dir Äre Frënd?
+- Mir gesinn eis all Woch.
+- Wéi fält Iech d’Lëtzebuerger Iessen?
+- Ech fannen et ganz gutt.
+- Wéi eng Plaz gefält Iech am meeschten zu Lëtzebuerg?
+- Ech fannen de Park am meeschten flott.
+- Wéi laang dauert et fir op d’Aarbecht ze goen?
+- Et dauert ongeféier 30 Minutten.
+- Wéi eng Musek héiert Dir gär?
+- Ech héieren gär Pop Musek.
+- Wéi oft gitt Dir an de Kino?
+- Ech ginn all Mount an de Kino.
+- Wéi eng Faarf huet Äre Auto?
+- Mäi Auto ass rout.
+- Wéi vill Sproochen léiert Dir?
+- Ech léieren dräi Sproochen.
+- Wéi heescht Äre Léiermeeschter?
+- Mäi Léiermeeschter heescht Herr Müller.
+- Wéi laang dauert d’Cours?
+- D’Cours dauert zwou Stonnen.
+- Wéi eng Zäit ass et?
+- Et ass 10 Auer.
+- Wéi geet et Iech haut?
+- Et geet mir gutt, merci.
+- Wéi heescht Äre Lieblingsfilm?
+- Mäi Lieblingsfilm heescht „Amélie“.
+- Wéi eng Plaz wëllt Dir besichen?
+- Ech wëll Paris besichen.
+- Wéi laang bleift Dir do?
+- Ech bleiwe fir fënnef Deeg do.
+- Wéi eng Iessen hutt Dir gär?
+- Ech hunn Pizza gär.
+- Wéi oft gitt Dir an d’Bibliothéik?
+- Ech ginn all Woch an d’Bibliothéik.
+- Wéi eng Sportart maacht Dir?
+- Ech maachen Foussball.
+- Wéi laang léiert Dir schonn?
+- Ech léieren zënter engem Joer.
+- Wéi eng Sprooch ass schwéier?
+- Lëtzebuergesch ass schwéier.
+- Wéi eng Sprooch ass einfach?
+- Englesch ass einfach.
+- Wéi heescht Äre Lieblingsbuch?
+- Mäi Lieblingsbuch heescht „Harry Potter“.
+- Wéi eng Plaz ass Äre Lieblingsplaz?
+- Mäi Lieblingsplaz ass de Strand.
+- Wéi oft gitt Dir an d’Stad?
+- Ech ginn all Weekend an d’Stad.
+- Wéi eng Zäit ass et elo?
+- Et ass 3 Auer Nomëtten.
+- Wéi geet et Iech elo?
+- Et geet mir gutt.
+- Wéi heescht Äre Lieblingssportler?
+- Mäi Lieblingssportler heescht Roger Federer.
+- Wéi eng Sprooch schwätzt Dir am léifsten?
+- Ech schwätzen Däitsch am léifsten.
+- Wéi laang dauert et fir op d’Schoul ze goen?
+- Et dauert 15 Minutten.
+- Wéi eng Plaz ass interessant?
+- D’Musek ass interessant.
+- Wéi oft gitt Dir an d’Kino?
+- Ech ginn all Mount an d’Kino.
+- Wéi eng Faarf huet Äre Pullover?
+- Mäi Pullover ass gréng.
+- Wéi vill Leit sinn an Ärer Famill?
+- Et sinn fënnef Leit an menger Famill.
+- Wéi heescht Äre Papp?
+- Mäi Papp heescht Jean.
+- Wéi heescht Är Mamm?
+- Meng Mamm heescht Marie.
+- Wéi oft gitt Dir an d’Geschäft?
+- Ech ginn all Dag an d’Geschäft.
+- Wéi eng Plaz ass schéin?
+- De Park ass schéin.
+- Wéi laang dauert et fir op d’Aarbecht ze goen?
+- Et dauert 20 Minutten.
+- Wéi eng Musek héiert Dir gär?
+- Ech héieren gär Jazz.
+- Wéi oft gitt Dir an d’Bibliothéik?
+- Ech ginn all Woch an d’Bibliothéik.
+- Wéi eng Sportart maacht Dir?
+- Ech maachen Schwammen.
+- Wéi laang léiert Dir schonn?
+- Ech léieren zënter engem halwe Joer.
+- Wéi eng Sprooch ass schwéier?
+- Franséisch ass schwéier.
+- Wéi eng Sprooch ass einfach?
+- Däitsch ass einfach.
+- Wéi heescht Äre Lieblingsfilm?
+- Mäi Lieblingsfilm heescht „Inception“.
+- Wéi eng Plaz ass Äre Lieblingsplaz?
+- Mäi Lieblingsplaz ass de Bierg.
+- Wéi oft gitt Dir an d’Stad?
+- Ech ginn all Weekend an d’Stad.
+- Wéi eng Zäit ass et elo?
+- Et ass 5 Auer Nomëtten.
+- Wéi geet et Iech elo?
+- Et geet mir gutt, merci.

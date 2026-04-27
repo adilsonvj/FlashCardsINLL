@@ -1,0 +1,14 @@
+- What is your name?
+- My name is Sophie.
+- Where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourger.
+- How are you?
+- I am well, thank you.
+- And you?
+- Also well, thank you.
+- What do you do in the evening?
+- I read a book or watch a movie.
+- That sounds nice!
+- Yes, it is very relaxing.

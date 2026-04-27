@@ -1,0 +1,1 @@
+- Leia tudo que está em um texto no cartão-postal.

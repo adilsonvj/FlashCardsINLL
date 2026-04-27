@@ -1,0 +1,14 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- Como vai você?
+- Vai tudo bem comigo, obrigado.
+- E você?
+- Também bem, obrigado.
+- O que você faz à noite?
+- Eu leio um livro ou assisto a um filme.
+- Isso soa legal!
+- Sim, é bem relaxante.

@@ -1,0 +1,8 @@
+- Quantos livros você tem em casa?
+- Três.
+- Você tem uma biblioteca em casa?
+- Sim, eu tenho uma grande biblioteca em casa.
+- Quem é o seu autor favorito?
+- Meu autor favorito é Tolstói.
+- E qual é o seu livro favorito?
+- Meu livro favorito é Anna Karenina.

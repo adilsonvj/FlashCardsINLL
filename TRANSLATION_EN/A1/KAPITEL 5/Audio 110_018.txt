@@ -1,0 +1,13 @@
+- Hello.
+- What is your name?
+- My name is Fal.
+- Where are you from?
+- I come from Senegal.
+- Where do you live?
+- I live in Luxembourg.
+- How old are you?
+- I am 25 years old.
+- What do you do?
+- I am a student.
+- And you?
+- I am also a student.

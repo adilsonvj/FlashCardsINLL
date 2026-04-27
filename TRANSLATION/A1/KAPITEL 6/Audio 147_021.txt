@@ -1,0 +1,7 @@
+- Qual é o seu nome?
+- Meu nome é Franz.
+- De onde você vem?
+- Eu venho da Alemanha.
+- Você é alemão?
+- Sim, eu sou alemão.
+- E você?

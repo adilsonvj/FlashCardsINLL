@@ -1,0 +1,210 @@
+- What is your name?
+- My name is Anna.
+- And where are you from?
+- I come from Germany.
+- How old are you?
+- I am 25 years old.
+- How many sisters do you have?
+- I have two sisters.
+- How many brothers do you have?
+- I have one brother.
+- Where do you live?
+- I live in Luxembourg.
+- What do you do for a living?
+- I am a teacher.
+- Do you have hobbies?
+- Yes, I play guitar.
+- And you?
+- I like reading books.
+- What is the weather like today?
+- It is cold and the weather is cloudy.
+- What time is it?
+- It is two o'clock in the afternoon.
+- How long have you been learning Luxembourgish?
+- I have been learning Luxembourgish for one year.
+- What is your favorite food?
+- My favorite food is spaghetti.
+- Do you have pets?
+- Yes, I have a cat.
+- What is your cat's name?
+- Her name is Mimi.
+- How many languages do you speak?
+- I speak three languages.
+- What is your partner's name?
+- My partner's name is Tom.
+- How long have you been together?
+- We have been together for five years.
+- How often do you go to the cinema?
+- I go to the cinema every month.
+- What is your favorite film?
+- My favorite film is a comedy.
+- How often do you go to the gym?
+- I go to the gym three times a week.
+- What do you do on the weekend?
+- On the weekend I visit my family.
+- How many hours do you work per day?
+- I work eight hours per day.
+- How long does your commute to work take?
+- My commute takes about 30 minutes.
+- How often do you go on vacation?
+- I go on vacation every year.
+- Which place would you like to visit next year?
+- I want to visit Italy.
+- What is your best friend's name?
+- My best friend's name is Marc.
+- How often do you meet your friends?
+- I meet my friends every week.
+- How long have you been learning Luxembourgish?
+- I have been learning Luxembourgish for one year.
+- What is your teacher's name?
+- My teacher's name is Herr Müller.
+- How many children do you have?
+- I have two children.
+- How old are your children?
+- They are five and seven years old.
+- What is your husband's name?
+- My husband's name is Jean.
+- How long have you been married?
+- We have been married for three years.
+- How many hours do you sleep every night?
+- I sleep seven hours every night.
+- How often do you go to the library?
+- I go to the library every month.
+- What is your favorite book?
+- My favorite book is "The History of Luxembourg."
+- How many children would you like?
+- I would like three children.
+- What is your favorite sport?
+- My favorite sport is football.
+- How often do you play football?
+- I play football every weekend.
+- What is your favorite singer?
+- My favorite singer is Elton John.
+- How often do you listen to music?
+- I listen to music every day.
+- What is your favorite movie?
+- My favorite movie is "The Lion King."
+- How often do you go to the theater?
+- I go to the theater every month.
+- What is your favorite restaurant?
+- My favorite restaurant is "La Table."
+- How often do you eat there?
+- I eat there every month.
+- What is your favorite cake?
+- My favorite cake is chocolate.
+- How often do you cook at home?
+- I cook at home every day.
+- What is your favorite drink?
+- My favorite drink is water.
+- How often do you drink water?
+- I drink water every day.
+- What is your favorite place in Luxembourg?
+- My favorite place is the park.
+- How often do you go to the park?
+- I go to the park every weekend.
+- What is your favorite day of the week?
+- My favorite day is Saturday.
+- How often do you go to the shop?
+- I go to the shop every week.
+- What is your favorite Monday?
+- My favorite Monday is Monday morning.
+- How often do you go to the kitchen?
+- I go to the kitchen every day.
+- What is your favorite kitchen?
+- My favorite kitchen is the Italian kitchen.
+- How often do you go to the bakery?
+- I go to the bakery every day.
+- What is your favorite baker's name?
+- My favorite baker is Pierre.
+- How often do you go to the pharmacy?
+- I go to the pharmacy every month.
+- What is your favorite pharmacy?
+- My favorite pharmacy is "Pharma."
+- How often do you go to the bank?
+- I go to the bank every month.
+- What is your favorite bank?
+- My favorite bank is "Banque de Luxembourg."
+- How often do you go to the post office?
+- I go to the post office every week.
+- What is your favorite post?
+- My favorite post is "Post Luxembourg."
+- How often do you go to the library?
+- I go to the library every month.
+- What is your favorite library?
+- My favorite library is "Centre National de Littérature."
+- How often do you go to the museum?
+- I go to the museum every year.
+- What is your favorite museum?
+- My favorite museum is "Musée d'Art Moderne."
+- How often do you go to the cinema?
+- I go to the cinema every month.
+- What is your favorite cinema?
+- My favorite cinema is "Cinémathèque."
+- How often do you go to the theater?
+- I go to the theater every month.
+- What is your favorite theater?
+- My favorite theater is "Théâtre National."
+- How often do you go to a concert?
+- I go to a concert every year.
+- What is your favorite concert?
+- My favorite concert is "Rock am Ring."
+- How often do you go to the festival?
+- I go to the festival every year.
+- What is your favorite festival?
+- My favorite festival is "Schueberfouer."
+- How often do you go on vacation?
+- I go on vacation every year.
+- What is your favorite vacation?
+- My favorite vacation is at sea.
+- How often do you go to the hill?
+- I go to the hill every summer.
+- What is your favorite hill?
+- My favorite hill is "Müllerthal."
+- How often do you go to the beach?
+- I go to the beach every summer.
+- What is your favorite beach?
+- My favorite beach is "Mier."
+- How often do you go to the park?
+- I go to the park every weekend.
+- What is your favorite park?
+- My favorite park is "Parc de la Ville."
+- How often do you go to the library?
+- I go to the library every month.
+- What is your favorite library?
+- My favorite library is "Centre National de Littérature."
+- How often do you go to the museum?
+- I go to the museum every year.
+- What is your favorite museum?
+- My favorite museum is "Musée d'Art Moderne."
+- How often do you go to the cinema?
+- I go to the cinema every month.
+- What is your favorite cinema?
+- My favorite cinema is "Cinémathèque."
+- How often do you go to the theater?
+- I go to the theater every month.
+- What is your favorite theater?
+- My favorite theater is "Théâtre National."
+- How often do you go to the concert?
+- I go to a concert every year.
+- What is your favorite concert?
+- My favorite concert is "Rock am Ring."
+- How often do you go to the festival?
+- I go to the festival every year.
+- What is your favorite festival?
+- My favorite festival is "Schueberfouer."
+- How often do you go on vacation?
+- I go on vacation every year.
+- What is your favorite vacation?
+- My favorite vacation is at the sea.
+- How often do you go to the hill?
+- I go to the hill every summer.
+- What is your favorite hill?
+- My favorite hill is "Müllerthal."
+- How often do you go to the beach?
+- I go to the beach every summer.
+- What is your favorite beach?
+- My favorite beach is "Mier."
+- How often do you go to the park?
+- I go to the park every weekend.
+- What is your favorite park?
+- My favorite park is "Parc de la Ville."

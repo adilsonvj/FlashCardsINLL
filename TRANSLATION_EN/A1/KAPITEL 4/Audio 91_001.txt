@@ -1,0 +1,12 @@
+- What is your name?
+- My name is Sophie.
+- And you?
+- I come from Luxembourg.
+- What do people like to do?
+- I like to play football.
+- And you?
+- I like to read books.
+- What do people like to do more?
+- They also like tennis.
+- And you?
+- I like to listen to music.

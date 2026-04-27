@@ -1,0 +1,2 @@
+- Kuckt Bild.
+- Liest aloud stat en Text.

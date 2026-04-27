@@ -1,0 +1,19 @@
+- Read all city hall descriptions in the dialogue.
+- We go together to the notary.
+- Where exactly should we meet?
+- That is not easy to find.
+- Come, we meet at the cafe in the park.
+- And how do you get there?
+- Is there a bus going there?
+- Yes, but you have to go a bit to Fous.
+- Catch bus number 15 and pull Marie Schwamm out.
+- If you cross the lines, then the two rails go to Lengs.
+- Go past the supermarket and then to the roundabout street.
+- Next to the patisserie is a small street.
+- The street ends at a park.
+- The street runs into a park.
+- At my place this can be to the kiosk and its small cafe.
+- The cafe in the park.
+- Stay in front of the cafe and wait for me.
+- We will then go into the building together.
+- That is directly opposite the cafe.

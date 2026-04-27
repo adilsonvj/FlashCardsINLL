@@ -1,0 +1,26 @@
+- What is your name?
+- My name is Müller.
+- And you?
+- I come from Germany.
+- Are you Swiss?
+- No, I am German.
+- And you?
+- I am Luxembourger.
+- How are you?
+- I am well, thank you.
+- How old are you?
+- I am 25 years old.
+- What do you do?
+- I am a student.
+- Where do you live?
+- I live in Luxembourg.
+- Do you have siblings?
+- Yes, I have a sister.
+- Do you have hobbies?
+- Yes, I play football.
+- What do you like to eat?
+- I like to eat pizza.
+- How long have you been learning Luxembourgish?
+- I have been learning Luxembourgish for a year.
+- Good luck!
+- Thank you!

@@ -1,0 +1,10 @@
+- Qual é o seu nome?
+- Meu nome é Claire.
+- O que você gostaria de pedir?
+- Eu quero pedir café e biscoitos.
+- Quantos biscoitos você quer?
+- Eu quero dois biscoitos.
+- E você?
+- Eu também quero café.
+- De onde você vem?
+- Eu venho de Luxemburgo.

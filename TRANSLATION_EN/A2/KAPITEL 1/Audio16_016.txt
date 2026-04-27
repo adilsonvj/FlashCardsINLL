@@ -1,0 +1,9 @@
+- What is your name?
+- My name is Kichen.
+- Where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am not Swiss.
+- Are you French?
+- No, I am not French.
+- And you?

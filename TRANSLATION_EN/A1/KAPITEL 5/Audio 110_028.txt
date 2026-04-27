@@ -1,0 +1,42 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- And you?
+- I am from Germany.
+- Are you Swiss?
+- No, I am French.
+- How old are you?
+- I am 25 years old.
+- How are you?
+- I am well, thank you.
+- What do you do?
+- I am a student.
+- Where do you live?
+- I live in Luxembourg.
+- Do you have a family?
+- Yes, I have a small family.
+- Do you have children?
+- No, I do not have children.
+- How long have you been here?
+- I have been here for a year.
+- How do you like the city?
+- I find the city beautiful.
+- What is your favorite place?
+- My favorite place is the park.
+- What do you like to do in your free time?
+- I like reading books.
+- Do you have a map?
+- Yes, I have a map.
+- What kind of map is that?
+- It is a state map.
+- Why do you need the map?
+- To use for public transport.
+- How much does the map cost?
+- The map costs 30 euros per month.
+- How long is the map valid?
+- The map is valid for one month.
+- Can you help me?
+- Yes, of course.
+- Thank you very much!
+- You’re welcome!

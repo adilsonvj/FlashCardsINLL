@@ -1,0 +1,10 @@
+- What is your name?
+- My name is Claire.
+- What would you like to order?
+- I would like to order coffee and cookies.
+- How many cookies would you like?
+- I would like two cookies.
+- And you?
+- I will also have coffee.
+- Where are you from?
+- I come from Luxembourg.

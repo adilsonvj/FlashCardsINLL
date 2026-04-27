@@ -1,0 +1,7 @@
+- What is your name?
+- My name is Léieren.
+- How old are you?
+- I am five years old.
+- Where are you from?
+- I come from Luxembourg.
+- And you?

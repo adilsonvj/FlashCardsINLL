@@ -1,0 +1,19 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você bebe café?
+- Sim, eu bebo café.
+- E você?
+- Eu também bebo café.
+- Quantos cafés você bebe por dia?
+- Eu bebo duas xícaras de café por dia.
+- Você prefere mais café ou chá?
+- Eu gosto mais de café.
+- Como você toma o seu café?
+- Com açúcar e leite.
+- E você?
+- Eu tomo meu café sem açúcar.
+- Você quer mais uma xícara?
+- Sim, por favor.
+- Muito obrigado!

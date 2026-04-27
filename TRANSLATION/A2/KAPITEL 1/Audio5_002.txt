@@ -1,0 +1,20 @@
+- Olá, eu gostaria de uma passagem para Frankfurt.
+- Como ajudá-lo a viajar?
+- Bom dia.
+- Você viaja na primeira ou segunda classe?
+- Segunda classe.
+- Um momento, eu verifico.
+- Lamento, a segunda classe está lotada.
+- E a primeira classe?
+- Você tem algum lugar disponível?
+- Sim, ainda há alguns lugares livres.
+- Então qual é a maior vantagem no preço?
+- A primeira classe é 25 euros mais cara, a passagem custa 80 euros.
+- E quanto custa o trem?
+- Às oito horas partem 20 e às doze partem 20, você está em Frankfurt.
+- E então, aqui está, eu envio a passagem.
+- Você paga em dinheiro ou com o cartão?
+- Com o cartão.
+- Então está bom, aqui está sua passagem.
+- Obrigado, desejo uma boa viagem.
+- Obrigado, igualmente.

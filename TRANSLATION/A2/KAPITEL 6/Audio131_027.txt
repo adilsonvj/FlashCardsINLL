@@ -1,0 +1,22 @@
+- Olá
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- E você?
+- Eu também sou luxemburguês.
+- Como vai você?
+- Vai tudo bem comigo, obrigado.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- O que você faz?
+- Eu sou estudante.
+- Há quanto tempo você já aprende o luxemburguês?
+- Eu aprendo há um ano.
+- Como você acha o luxemburguês?
+- É difícil, mas interessante.
+- Você tem família?
+- Sim, eu tenho uma família pequena.
+- Muito obrigado!
+- De nada!

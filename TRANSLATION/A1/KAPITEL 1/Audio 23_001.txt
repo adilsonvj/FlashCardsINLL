@@ -1,0 +1,2 @@
+- Leia e ouça o texto.
+- Cria uma lista das línguas.

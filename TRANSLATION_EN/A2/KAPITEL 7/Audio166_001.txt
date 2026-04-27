@@ -1,0 +1,13 @@
+- Ent. Cabine Dr. Vampach, bonjour.
+- Good morning, can I speak with Dr. Vampach?
+- Who is on the line, who is speaking?
+- Oh, excuse me, my name is Becker, Elisabeth Becker.
+- Madame Becker, the doctor has the patient at the moment.
+- Can I help you further?
+- No, I want to speak personally with the doctor.
+- When can I call again?
+- Try again at noon.
+- You will have fewer patients with the doctor then.
+- Thank you, I will do that.
+- Goodbye.
+- But, madam...

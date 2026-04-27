@@ -1,0 +1,24 @@
+- Wéi heescht Dir? C
+- Mäi Numm ass Jean Dupont. C
+- Vu wou kommt Dir? C
+- Ech kommen aus Frankräich. C
+- Sidd Dir Schwäizer? A
+- Nee, ech sinn Fransous. C
+- Wéi al sidd Dir? C
+- Ech sinn 35 Joer al. C
+- Wat fir Medikamenter hutt Dir schonn? A
+- Ech huelen all Dag Aspirin. C
+- Hutt Dir Allergien? A
+- Nee, ech hunn keng Allergien. C
+- Hutt Dir Problemer mat Ärem Häerz? A
+- Nee, ech hunn kee Problem mam Häerz. C
+- Hutt Dir Féiwer oder Husten? A
+- Jo, ech hunn e bësse Féiwer an Husten. C
+- Wéi laang hutt Dir dës Symptomer? A
+- Et ass zënter dräi Deeg. C
+- Hutt Dir schonn en Dokter gesinn? A
+- Nee, ech sinn direkt an d'Apdikt komm. C
+- Gutt, ech ginn Iech e Rezept fir d'Medikamenter. A
+- Merci villmools. C
+- Gitt gutt op Iech op! A
+- Dir och, merci! C

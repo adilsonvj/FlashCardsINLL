@@ -1,0 +1,178 @@
+- Como você se chama?
+- Meu nome é Anna.
+- De onde você é?
+- Eu sou da Alemanha.
+- Você é suíço(a)?
+- Não, eu sou alemão(a).
+- E você?
+- Eu sou luxemburguês(a).
+- Como vai você?
+- Vou bem, obrigado(a).
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- O que você faz?
+- Eu sou estudante.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- Você tem irmãos?
+- Sim, eu tenho uma irmã.
+- Qual é a sua cor favorita?
+- Minha cor favorita é azul.
+- Você tem uma namorada?
+- Sim, eu tenho uma boa amiga.
+- O que você gosta de comer?
+- Eu gosto de noodles.
+- Há quanto tempo você estuda luxemburguês?
+- estudo luxemburguês há um ano.
+- Com que frequência você fala luxemburguês?
+- Eu falo luxemburguês todos os dias.
+- Qual é o seu esporte favorito?
+- Meu esporte favorito é natação.
+- Quantos idiomas você fala?
+- Eu falo três idiomas.
+- O que você faz no tempo livre?
+- Eu gosto de ler livros.
+- Como está o tempo hoje?
+- Está ensolarado e quente hoje.
+- Por quanto tempo você ficará em Luxemburgo?
+- Eu fico por três meses.
+- Como se chama seu marido?
+- Meu marido se chama Tom.
+- Você tem filhos?
+- Sim, eu tenho dois filhos.
+- Como se chama o seu cachorro?
+- Meu cachorro se chama Max.
+- Quanto custa isso?
+- É cinco euros.
+- Quanto tempo dura a aula?
+- A aula dura uma hora.
+- Com que frequência você vai à biblioteca?
+- Eu vou à biblioteca toda semana.
+- Quanto tempo leva para ir até lá?
+- Leva cinco minutos.
+- Como se chama seu professor?
+- Meu professor se chama Senhor Müller.
+- Quantas pessoas há na sala?
+- Há vinte pessoas na sala.
+- Como se chama a capital de Luxemburgo?
+- A capital chama-se Luxemburgo-Ville.
+- Há quanto tempo você está aprendendo?
+- Estou aprendendo há um mês.
+- Como se chama o seu telefone?
+- O meu telefone é um iPhone.
+- Como se chama o seu carro?
+- O meu carro é um BMW.
+- Como se chama o seu médico?
+- O meu médico chama-se Doutor Schmit.
+- Como se chama o seu filme favorito?
+- O meu filme favorito chama-se "Amélie".
+- Como se chama o seu cantor favorito?
+- O meu cantor favorito chama-se Ed Sheeran.
+- Como se chama o seu livro favorito?
+- O meu livro favorito chama-se "Harry Potter".
+- Como se chama o seu restaurante favorito?
+- O meu restaurante favorito chama-se "La Table".
+- Como se chama o seu lugar favorito em Luxemburgo?
+- O meu lugar favorito é o parque.
+- Como se chama o seu dia favorito?
+- O meu dia favorito é sábado.
+- Como se chama o seu dia da semana favorito?
+- O meu dia favorito da semana é 1º de junho.
+- Como se chama o seu ano favorito?
+- O meu ano favorito é 2023.
+- Como se chamam os seus meses favoritos?
+- Os meus meses favoritos são junho e julho.
+- Como se chama o seu clima favorito?
+- O meu clima favorito é ensolarado.
+- Como se chama o seu atleta esportivo favorito?
+- O meu atleta favorito é Roger Federer.
+- Como se chama o seu ator favorito?
+- O meu ator favorito chama-se Leonardo DiCaprio.
+- Como se chama a sua atriz favorita?
+- A minha atriz favorita chama-se Meryl Streep.
+- Como se chama a sua atriz de voz favorita?
+- A minha atriz de voz favorita chama-se Meryl Streep.
+- Como se chama a sua cantora favorita?
+- A minha cantora favorita chama-se Adele.
+- Como se chama o seu prato favorito?
+- O meu prato favorito é chocolate.
+- Como se chama a sua sobremesa favorita?
+- A minha sobremesa favorita é tiramisu.
+- Como se chama a sua bebida favorita?
+- A minha bebida favorita é água.
+- Como se chama a sua cerveja favorita?
+- A minha cerveja favorita é Pils.
+- Como se chama o seu vinho favorito?
+- O meu vinho favorito é Riesling.
+- Como se chama o seu café favorito?
+- O meu café favorito é espresso.
+- Como se chama o seu chá favorito?
+- O meu chá favorito é chá verde.
+- Como se chama a sua fruta favorita?
+- A minha fruta favorita é maçã.
+- Como se chama o seu legume favorito?
+- O meu legume favorito é cenoura.
+- Como se chama o seu animal favorito?
+- O meu animal favorito é gato.
+- Como se chama a sua flor favorita?
+- A minha flor favorita é rosa.
+- Como se chama o seu plano de fim de semana?
+- O meu plano favorito é encontrar amigos.
+- Como se chama o seu plano de férias?
+- O meu plano favorito é ir aos bares.
+- Como se chama o seu plano para o feriado?
+- O meu plano favorito é visitar a família.
+- Como se chama o seu plano para o ano?
+- O meu plano favorito é viajar muito.
+- Como se chama o seu plano para o futuro?
+- O meu plano é formar uma família.
+- Como se chama o seu plano para a carreira?
+- O meu plano é encontrar um bom emprego.
+- Como se chama o seu plano para a saúde?
+- O meu plano é treinar bastante.
+- Como se chama o seu plano para a educação?
+- O meu plano é continuar estudando.
+- Como se chama o seu plano para o tempo livre?
+- O meu plano é ouvir música.
+- Como se chama o seu plano para a cultura?
+- O meu plano é aproveitar música e cinema.
+- Como se chama o seu plano para a natureza?
+- O meu plano é sair para fazer trilhas.
+- Como se chama o seu plano para a cozinha?
+- O meu plano é experimentar novas receitas.
+- Como se chama o seu plano para a arte?
+- O meu plano é fazer pintura.
+- Como se chama o seu plano para a fotografia?
+- O meu plano é tirar fotos.
+- Como se chama o seu plano para a viagem?
+- O meu plano é descobrir novos lugares.
+- Como se chama o seu plano para a família?
+- O meu plano é passar tempo com a família.
+- Como se chama o seu plano para os amigos?
+- O meu plano é comemorar com os amigos.
+- Como se chama o seu plano para a casa?
+- O meu plano é decorar a casa.
+- Como se chama o seu plano para o carro?
+- O meu plano é comprar um carro novo.
+- Como se chama o seu plano para o animal de estimação?
+- O meu plano é adotar um cão.
+- Como se chama o seu plano para a tela?
+- O meu plano é passar menos tempo na tela.
+- Como se chama o seu plano para a sociedade?
+- O meu plano é ter mais atividades sociais.
+- Como se chama o seu plano para o meio ambiente?
+- O meu plano é reciclar mais.
+- Como se chama o seu plano para a política?
+- O meu plano é estar mais informado.
+- Como se chama o seu plano para a ciência?
+- O meu plano é aprender mais.
+- Como se se chama o seu plano para a tecnologia?
+- O meu plano é descobrir novas tecnologias.
+- Como se chama o seu plano para a educação?
+- O meu plano é continuar estudando.
+- Como se chama o seu plano para a criatividade?
+- O meu plano é criar coisas novas.
+- Como se chama o seu plano para a felicidade?
+- O meu plano é ser feliz.
+- Como se chama o seu plano para o futuro?
+- O meu plano é ter um bom futuro.

@@ -1,0 +1,7 @@
+- Olá. Restaurante Swi. no Maisy, bom dia.
+- Bom dia Mattösch, eu gostaria de reservar uma mesa para duas pessoas, por favor.
+- Qual é o seu nome, por favor?
+- Stephanopoulos.
+- Você pode soletrar seu sobrenome de família, por favor?
+- S. T. E. P. H. A. N. O. P. O. U. L. O. S.
+- Certo, anotado.

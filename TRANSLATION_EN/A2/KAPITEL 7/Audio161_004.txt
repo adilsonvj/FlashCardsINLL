@@ -1,0 +1,15 @@
+- Hello!
+- What is your name?
+- My name is Anna.
+- And you?
+- I am Tom.
+- Where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- Are you French?
+- No, I am German.
+- How are you?
+- I am well, thank you.
+- And how are you?
+- Also well, thank you.

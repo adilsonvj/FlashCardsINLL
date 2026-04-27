@@ -1,0 +1,32 @@
+- What is your name?
+- My name is Anna.
+- And you?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- How old are you?
+- I am 25 years old.
+- Do you have a big family?
+- Yes, I have a big family.
+- How many people are in your family?
+- We are seven people.
+- And you?
+- I have a small family.
+- What is your mother's name?
+- My mother's name is Marie.
+- And what is your father's name?
+- My father's name is Jean.
+- Do you have brothers or sisters?
+- Yes, I have two sisters.
+- Do your brothers also live in Luxembourg?
+- No, they live in Germany.
+- And where do your sisters live?
+- They live here in Luxembourg.
+- What does your family do?
+- My father is a doctor, my mother is a teacher.
+- And what do you do?
+- I am a student.
+- How long have you lived in Luxembourg?
+- I have lived here for 25 years.
+- That's great!
+- Yes, I am proud of my family.

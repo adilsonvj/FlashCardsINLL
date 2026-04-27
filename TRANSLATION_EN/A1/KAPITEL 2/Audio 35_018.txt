@@ -1,0 +1,28 @@
+- What is your name?
+- My name is Anna.
+- And you?
+- I come from Germany.
+- How old are you?
+- I am 25 years old.
+- How long have you been learning Luxembourgish?
+- I have been learning for one month.
+- What do you do professionally?
+- I am a teacher.
+- Do you have a family?
+- Yes, I am married and have two children.
+- What is your husband’s name?
+- His name is Marc.
+- And you?
+- I am a student.
+- Where are you from?
+- I come from France.
+- How long have you been staying in Luxembourg?
+- I have been here for one year.
+- What do you like to do in your free time?
+- I like reading books and I play tennis.
+- How is the weather today?
+- It is cold and raining.
+- How many degrees is it?
+- It is about 5 degrees.
+- What is the name of the month?
+- December.

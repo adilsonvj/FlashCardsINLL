@@ -1,0 +1,40 @@
+# Python caches and local virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Anki local profile/database files should never be committed.
+collection.media/
+collection.anki2
+*.anki2
+*.apkg
+
+# Source audio is intentionally not committed because FLASHCARDS_MEDIA contains
+# the Anki-ready audio export and avoids storing duplicate MP3s in Git.
+CUTS/

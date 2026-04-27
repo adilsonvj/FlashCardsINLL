@@ -1,0 +1,3 @@
+- Hello, please listen here.
+- If you have something to say, then leave a message after the beep.
+- And if you have nothing to say, it’s fine too.

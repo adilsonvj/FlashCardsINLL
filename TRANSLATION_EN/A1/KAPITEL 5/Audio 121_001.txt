@@ -1,0 +1,13 @@
+- What is your name?
+- My name is Sophie.
+- Where are you from?
+- I come from France.
+- Are you French?
+- Yes, I am French.
+- And you?
+- I am German.
+- How old are you?
+- I am 25 years old.
+- Is that right or wrong?
+- I think it is right.
+- Okay, thanks!

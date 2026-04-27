@@ -1,0 +1,28 @@
+- Qual é o seu nome?
+- Meu nome é Anna.
+- De onde você vem?
+- Eu venho de Luxemburgo.
+- Você é suíço?
+- Não, eu sou luxemburguês.
+- E você?
+- Eu sou alemã.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Esch.
+- O que você faz?
+- Eu sou estudante.
+- Você tem irmãos?
+- Sim, eu tenho uma irmã.
+- Você tem animais de estimação?
+- Não, eu não tenho animais de estimação.
+- Qual é a sua cor favorita?
+- Minha cor favorita é azul.
+- O que você gosta de comer?
+- Eu gosto de comer macarrão.
+- O que você bebe?
+- Eu gosto de beber água.
+- Como vai você?
+- Estou bem, obrigado.
+- E você?
+- Também estou bem.

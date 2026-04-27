@@ -1,0 +1,4 @@
+- Leia as descrições.
+- Como está o cachorro?
+- De que cor é o gato?
+- Meça o violão.

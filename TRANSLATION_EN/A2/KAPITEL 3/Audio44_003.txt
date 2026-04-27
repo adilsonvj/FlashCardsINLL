@@ -1,0 +1,24 @@
+- What is your name?
+- My name is Sophie.
+- And where are you from?
+- I come from Luxembourg.
+- Are you Swiss?
+- No, I am Luxembourgish.
+- How old are you?
+- I am 25 years old.
+- What do you do?
+- I am a student.
+- Can you help me?
+- Yes, of course.
+- What do you need?
+- I need a pair of glasses.
+- How much does one cost?
+- One costs 50 euros.
+- Do you have money?
+- Yes, I have money.
+- And you?
+- Me too.
+- Would you like to go shopping with me?
+- Yes, please.
+- Great!
+- Let’s go.

@@ -1,0 +1,52 @@
+- Qual é o seu nome?
+- Meu nome é Sophie.
+- De onde você vem?
+- Eu venho da França.
+- E você?
+- Eu sou de Luxemburgo.
+- Você é suíço?
+- Não, eu sou alemão.
+- Quantos anos você tem?
+- Eu tenho 25 anos.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- O que você faz?
+- Eu sou estudante.
+- O que você estuda?
+- Eu estudo História.
+- Você tem irmãos?
+- Sim, eu tenho uma irmã.
+- Como se chama sua irmã?
+- Ela se chama Marie.
+- Você tem animais de estimação?
+- Sim, eu tenho uma gata.
+- Como se chama sua gata?
+- Ela se chama Mimi.
+- Qual é o seu prato favorito?
+- Eu gosto de comer pizza.
+- E você?
+- Eu gosto de comer macarrão.
+- Há quanto tempo você aprende luxemburguês?
+- Eu estudo há um ano.
+- É difícil?
+- Sim, é difícil, mas é interessante.
+- O que você faz no seu tempo livre?
+- Eu gosto de ler livros.
+- E o que mais você faz?
+- Eu toco guitarra.
+- Com que frequência você toca guitarra?
+- Eu toco todos os dias.
+- Há quanto tempo você toca guitarra?
+- Eu toco há três anos.
+- Como está o tempo hoje?
+- Está ensolarado e quente.
+- Você gosta de viajar nas férias?
+- Sim, eu gosto de viajar nas férias.
+- Qual é o seu lugar favorito?
+- Eu gosto de ir às BERGAS.
+- Você tem planos para o fim de semana?
+- Sim, eu vou ao cinema.
+- Que filme você assiste?
+- Eu assisto uma comédia.
+- Ótimo, divirta-se!
+- Obrigada! Igualmente!

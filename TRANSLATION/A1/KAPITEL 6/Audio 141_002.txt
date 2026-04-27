@@ -1,0 +1,9 @@
+- Qual é o seu nome?
+- Frank.
+- De onde você vem?
+- Eu venho da Alemanha.
+- Onde você mora?
+- Eu moro em Luxemburgo.
+- Você é suíço?
+- Não, eu sou alemão.
+- E você?

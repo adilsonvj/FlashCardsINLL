@@ -1,0 +1,14 @@
+- Are you sick?
+- Yes, I am sick.
+- How do you feel?
+- I feel tired and I have a fever.
+- Do you have a cough?
+- Yes, I have a cough.
+- Have you seen a doctor?
+- No, not yet.
+- Do you go to the pharmacy?
+- Yes, I go to the pharmacy.
+- Good, good appetite and a speedy recovery!
+- Thank you very much!
+- And you?
+- I am healthy, thank you.

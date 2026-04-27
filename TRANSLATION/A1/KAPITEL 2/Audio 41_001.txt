@@ -1,0 +1,19 @@
+- Olá, Rosennimo.
+- Bom dia, meu nome é Faber.
+- Eu preciso do número de um hotel na Espanha.
+- Onde exatamente na Espanha?
+- Em Huelva.
+- Descreva o nome, se puder?
+- H-U-E-L-V-A.
+- Como se chama o hotel?
+- Hotel La Playa.
+- Um momento, por favor.
+- Então digite 0034 959 45 54 12.
+- Poderia repetir isso mais uma vez, por favor?
+- Sim, claro.
+- Para a Espanha inteira é 0034.
+- Então para Huelva inteira 959.
+- E o nome do hotel é 45 54 12.
+- Muito obrigado.
+- De nada.
+- Adeus.
