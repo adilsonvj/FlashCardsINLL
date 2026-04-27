@@ -248,7 +248,7 @@ After importing:
 3. Confirm that a field contains something like:
 
 ```text
-[sound:flashcards_A1_KAPITEL_1_Audio_01_001.mp3]
+[sound:inll_efebb85a6dde_A1_KAPITEL_1_Audio_01_001.mp3]
 ```
 
 4. Preview the card.
